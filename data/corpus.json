@@ -1,0 +1,21 @@
+{
+  "title": 21,
+  "part": "117",
+  "start": "2017-01-01",
+  "end": "2026-10-29",
+  "sections": 61,
+  "documents": 84,
+  "queries": 82,
+  "version_history": "https://www.ecfr.gov/api/versioner/v1/versions/title-21.json?part=117",
+  "snapshot_urls": {
+    "2017-01-01": "https://www.ecfr.gov/api/versioner/v1/full/2017-01-01/title-21.xml?part=117",
+    "2017-03-17": "https://www.ecfr.gov/api/versioner/v1/full/2017-03-17/title-21.xml?part=117",
+    "2017-04-05": "https://www.ecfr.gov/api/versioner/v1/full/2017-04-05/title-21.xml?part=117",
+    "2017-06-29": "https://www.ecfr.gov/api/versioner/v1/full/2017-06-29/title-21.xml?part=117",
+    "2019-04-02": "https://www.ecfr.gov/api/versioner/v1/full/2019-04-02/title-21.xml?part=117",
+    "2020-03-24": "https://www.ecfr.gov/api/versioner/v1/full/2020-03-24/title-21.xml?part=117",
+    "2022-10-31": "https://www.ecfr.gov/api/versioner/v1/full/2022-10-31/title-21.xml?part=117"
+  },
+  "date_semantics": "eCFR displayed revision date",
+  "query_construction": "First and last covered calendar day of each version interval for sections with multiple revisions."
+}

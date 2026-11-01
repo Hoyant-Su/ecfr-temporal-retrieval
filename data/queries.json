@@ -1,0 +1,576 @@
+[
+  {
+    "id": "117.1@2017-01-01",
+    "section": "117.1",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.1, \u00a7 117.1   Applicability and status., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.1@2016-12-19"
+  },
+  {
+    "id": "117.1@2017-06-28",
+    "section": "117.1",
+    "as_of": "2017-06-28",
+    "query": "Find 21 CFR 117.1, \u00a7 117.1   Applicability and status., as shown in the eCFR on 2017-06-28.",
+    "expected_id": "117.1@2016-12-19"
+  },
+  {
+    "id": "117.1@2017-06-29",
+    "section": "117.1",
+    "as_of": "2017-06-29",
+    "query": "Find 21 CFR 117.1, \u00a7 117.1   Applicability and status., as shown in the eCFR on 2017-06-29.",
+    "expected_id": "117.1@2017-06-29"
+  },
+  {
+    "id": "117.1@2026-10-29",
+    "section": "117.1",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.1, \u00a7 117.1   Applicability and status., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.1@2017-06-29"
+  },
+  {
+    "id": "117.126@2017-01-01",
+    "section": "117.126",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.126, \u00a7 117.126   Food safety plan., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.126@2016-12-19"
+  },
+  {
+    "id": "117.126@2019-04-01",
+    "section": "117.126",
+    "as_of": "2019-04-01",
+    "query": "Find 21 CFR 117.126, \u00a7 117.126   Food safety plan., as shown in the eCFR on 2019-04-01.",
+    "expected_id": "117.126@2016-12-19"
+  },
+  {
+    "id": "117.126@2019-04-02",
+    "section": "117.126",
+    "as_of": "2019-04-02",
+    "query": "Find 21 CFR 117.126, \u00a7 117.126   Food safety plan., as shown in the eCFR on 2019-04-02.",
+    "expected_id": "117.126@2019-04-02"
+  },
+  {
+    "id": "117.126@2026-10-29",
+    "section": "117.126",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.126, \u00a7 117.126   Food safety plan., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.126@2019-04-02"
+  },
+  {
+    "id": "117.136@2017-01-01",
+    "section": "117.136",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.136, \u00a7 117.136   Circumstances in which the owner, operator, or agent in charge of a manufacturing/processing facility is not required to implement a preventive control., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.136@2016-12-19"
+  },
+  {
+    "id": "117.136@2017-06-28",
+    "section": "117.136",
+    "as_of": "2017-06-28",
+    "query": "Find 21 CFR 117.136, \u00a7 117.136   Circumstances in which the owner, operator, or agent in charge of a manufacturing/processing facility is not required to implement a preventive control., as shown in the eCFR on 2017-06-28.",
+    "expected_id": "117.136@2016-12-19"
+  },
+  {
+    "id": "117.136@2017-06-29",
+    "section": "117.136",
+    "as_of": "2017-06-29",
+    "query": "Find 21 CFR 117.136, \u00a7 117.136   Circumstances in which the owner, operator, or agent in charge of a manufacturing/processing facility is not required to implement a preventive control., as shown in the eCFR on 2017-06-29.",
+    "expected_id": "117.136@2017-06-29"
+  },
+  {
+    "id": "117.136@2026-10-29",
+    "section": "117.136",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.136, \u00a7 117.136   Circumstances in which the owner, operator, or agent in charge of a manufacturing/processing facility is not required to implement a preventive control., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.136@2017-06-29"
+  },
+  {
+    "id": "117.145@2017-01-01",
+    "section": "117.145",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.145, \u00a7 117.145   Monitoring., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.145@2016-12-19"
+  },
+  {
+    "id": "117.145@2017-06-28",
+    "section": "117.145",
+    "as_of": "2017-06-28",
+    "query": "Find 21 CFR 117.145, \u00a7 117.145   Monitoring., as shown in the eCFR on 2017-06-28.",
+    "expected_id": "117.145@2016-12-19"
+  },
+  {
+    "id": "117.145@2017-06-29",
+    "section": "117.145",
+    "as_of": "2017-06-29",
+    "query": "Find 21 CFR 117.145, \u00a7 117.145   Monitoring., as shown in the eCFR on 2017-06-29.",
+    "expected_id": "117.145@2017-06-29"
+  },
+  {
+    "id": "117.145@2026-10-29",
+    "section": "117.145",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.145, \u00a7 117.145   Monitoring., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.145@2017-06-29"
+  },
+  {
+    "id": "117.201@2017-01-01",
+    "section": "117.201",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.201, \u00a7 117.201   Modified requirements that apply to a qualified facility., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.201@2016-12-19"
+  },
+  {
+    "id": "117.201@2017-06-28",
+    "section": "117.201",
+    "as_of": "2017-06-28",
+    "query": "Find 21 CFR 117.201, \u00a7 117.201   Modified requirements that apply to a qualified facility., as shown in the eCFR on 2017-06-28.",
+    "expected_id": "117.201@2016-12-19"
+  },
+  {
+    "id": "117.201@2017-06-29",
+    "section": "117.201",
+    "as_of": "2017-06-29",
+    "query": "Find 21 CFR 117.201, \u00a7 117.201   Modified requirements that apply to a qualified facility., as shown in the eCFR on 2017-06-29.",
+    "expected_id": "117.201@2017-06-29"
+  },
+  {
+    "id": "117.201@2026-10-29",
+    "section": "117.201",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.201, \u00a7 117.201   Modified requirements that apply to a qualified facility., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.201@2017-06-29"
+  },
+  {
+    "id": "117.254@2017-01-01",
+    "section": "117.254",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.254, \u00a7 117.254   Issuance of an order to withdraw a qualified facility exemption., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.254@2016-12-19"
+  },
+  {
+    "id": "117.254@2020-03-23",
+    "section": "117.254",
+    "as_of": "2020-03-23",
+    "query": "Find 21 CFR 117.254, \u00a7 117.254   Issuance of an order to withdraw a qualified facility exemption., as shown in the eCFR on 2020-03-23.",
+    "expected_id": "117.254@2016-12-19"
+  },
+  {
+    "id": "117.254@2020-03-24",
+    "section": "117.254",
+    "as_of": "2020-03-24",
+    "query": "Find 21 CFR 117.254, \u00a7 117.254   Issuance of an order to withdraw a qualified facility exemption., as shown in the eCFR on 2020-03-24.",
+    "expected_id": "117.254@2020-03-24"
+  },
+  {
+    "id": "117.254@2026-10-29",
+    "section": "117.254",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.254, \u00a7 117.254   Issuance of an order to withdraw a qualified facility exemption., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.254@2020-03-24"
+  },
+  {
+    "id": "117.257@2017-01-01",
+    "section": "117.257",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.257, \u00a7 117.257   Contents of an order to withdraw a qualified facility exemption., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.257@2016-12-19"
+  },
+  {
+    "id": "117.257@2017-06-28",
+    "section": "117.257",
+    "as_of": "2017-06-28",
+    "query": "Find 21 CFR 117.257, \u00a7 117.257   Contents of an order to withdraw a qualified facility exemption., as shown in the eCFR on 2017-06-28.",
+    "expected_id": "117.257@2016-12-19"
+  },
+  {
+    "id": "117.257@2017-06-29",
+    "section": "117.257",
+    "as_of": "2017-06-29",
+    "query": "Find 21 CFR 117.257, \u00a7 117.257   Contents of an order to withdraw a qualified facility exemption., as shown in the eCFR on 2017-06-29.",
+    "expected_id": "117.257@2017-06-29"
+  },
+  {
+    "id": "117.257@2020-03-23",
+    "section": "117.257",
+    "as_of": "2020-03-23",
+    "query": "Find 21 CFR 117.257, \u00a7 117.257   Contents of an order to withdraw a qualified facility exemption., as shown in the eCFR on 2020-03-23.",
+    "expected_id": "117.257@2017-06-29"
+  },
+  {
+    "id": "117.257@2020-03-24",
+    "section": "117.257",
+    "as_of": "2020-03-24",
+    "query": "Find 21 CFR 117.257, \u00a7 117.257   Contents of an order to withdraw a qualified facility exemption., as shown in the eCFR on 2020-03-24.",
+    "expected_id": "117.257@2020-03-24"
+  },
+  {
+    "id": "117.257@2026-10-29",
+    "section": "117.257",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.257, \u00a7 117.257   Contents of an order to withdraw a qualified facility exemption., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.257@2020-03-24"
+  },
+  {
+    "id": "117.264@2017-01-01",
+    "section": "117.264",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.264, \u00a7 117.264   Procedure for submitting an appeal., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.264@2016-12-19"
+  },
+  {
+    "id": "117.264@2017-06-28",
+    "section": "117.264",
+    "as_of": "2017-06-28",
+    "query": "Find 21 CFR 117.264, \u00a7 117.264   Procedure for submitting an appeal., as shown in the eCFR on 2017-06-28.",
+    "expected_id": "117.264@2016-12-19"
+  },
+  {
+    "id": "117.264@2017-06-29",
+    "section": "117.264",
+    "as_of": "2017-06-29",
+    "query": "Find 21 CFR 117.264, \u00a7 117.264   Procedure for submitting an appeal., as shown in the eCFR on 2017-06-29.",
+    "expected_id": "117.264@2017-06-29"
+  },
+  {
+    "id": "117.264@2020-03-23",
+    "section": "117.264",
+    "as_of": "2020-03-23",
+    "query": "Find 21 CFR 117.264, \u00a7 117.264   Procedure for submitting an appeal., as shown in the eCFR on 2020-03-23.",
+    "expected_id": "117.264@2017-06-29"
+  },
+  {
+    "id": "117.264@2020-03-24",
+    "section": "117.264",
+    "as_of": "2020-03-24",
+    "query": "Find 21 CFR 117.264, \u00a7 117.264   Procedure for submitting an appeal., as shown in the eCFR on 2020-03-24.",
+    "expected_id": "117.264@2020-03-24"
+  },
+  {
+    "id": "117.264@2026-10-29",
+    "section": "117.264",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.264, \u00a7 117.264   Procedure for submitting an appeal., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.264@2020-03-24"
+  },
+  {
+    "id": "117.270@2017-01-01",
+    "section": "117.270",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.270, \u00a7 117.270   Requirements applicable to an informal hearing., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.270@2016-12-19"
+  },
+  {
+    "id": "117.270@2020-03-23",
+    "section": "117.270",
+    "as_of": "2020-03-23",
+    "query": "Find 21 CFR 117.270, \u00a7 117.270   Requirements applicable to an informal hearing., as shown in the eCFR on 2020-03-23.",
+    "expected_id": "117.270@2016-12-19"
+  },
+  {
+    "id": "117.270@2020-03-24",
+    "section": "117.270",
+    "as_of": "2020-03-24",
+    "query": "Find 21 CFR 117.270, \u00a7 117.270   Requirements applicable to an informal hearing., as shown in the eCFR on 2020-03-24.",
+    "expected_id": "117.270@2020-03-24"
+  },
+  {
+    "id": "117.270@2026-10-29",
+    "section": "117.270",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.270, \u00a7 117.270   Requirements applicable to an informal hearing., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.270@2020-03-24"
+  },
+  {
+    "id": "117.274@2017-01-01",
+    "section": "117.274",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.274, \u00a7 117.274   Presiding officer for an appeal and for an informal hearing., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.274@2016-12-19"
+  },
+  {
+    "id": "117.274@2017-03-16",
+    "section": "117.274",
+    "as_of": "2017-03-16",
+    "query": "Find 21 CFR 117.274, \u00a7 117.274   Presiding officer for an appeal and for an informal hearing., as shown in the eCFR on 2017-03-16.",
+    "expected_id": "117.274@2016-12-19"
+  },
+  {
+    "id": "117.274@2017-03-17",
+    "section": "117.274",
+    "as_of": "2017-03-17",
+    "query": "Find 21 CFR 117.274, \u00a7 117.274   Presiding officer for an appeal and for an informal hearing., as shown in the eCFR on 2017-03-17.",
+    "expected_id": "117.274@2017-03-17"
+  },
+  {
+    "id": "117.274@2020-03-23",
+    "section": "117.274",
+    "as_of": "2020-03-23",
+    "query": "Find 21 CFR 117.274, \u00a7 117.274   Presiding officer for an appeal and for an informal hearing., as shown in the eCFR on 2020-03-23.",
+    "expected_id": "117.274@2017-03-17"
+  },
+  {
+    "id": "117.274@2020-03-24",
+    "section": "117.274",
+    "as_of": "2020-03-24",
+    "query": "Find 21 CFR 117.274, \u00a7 117.274   Presiding officer for an appeal and for an informal hearing., as shown in the eCFR on 2020-03-24.",
+    "expected_id": "117.274@2020-03-24"
+  },
+  {
+    "id": "117.274@2026-10-29",
+    "section": "117.274",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.274, \u00a7 117.274   Presiding officer for an appeal and for an informal hearing., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.274@2020-03-24"
+  },
+  {
+    "id": "117.287@2017-01-01",
+    "section": "117.287",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.287, \u00a7 117.287   Reinstatement of a qualified facility exemption that was withdrawn., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.287@2016-12-19"
+  },
+  {
+    "id": "117.287@2020-03-23",
+    "section": "117.287",
+    "as_of": "2020-03-23",
+    "query": "Find 21 CFR 117.287, \u00a7 117.287   Reinstatement of a qualified facility exemption that was withdrawn., as shown in the eCFR on 2020-03-23.",
+    "expected_id": "117.287@2016-12-19"
+  },
+  {
+    "id": "117.287@2020-03-24",
+    "section": "117.287",
+    "as_of": "2020-03-24",
+    "query": "Find 21 CFR 117.287, \u00a7 117.287   Reinstatement of a qualified facility exemption that was withdrawn., as shown in the eCFR on 2020-03-24.",
+    "expected_id": "117.287@2020-03-24"
+  },
+  {
+    "id": "117.287@2026-10-29",
+    "section": "117.287",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.287, \u00a7 117.287   Reinstatement of a qualified facility exemption that was withdrawn., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.287@2020-03-24"
+  },
+  {
+    "id": "117.3@2017-01-01",
+    "section": "117.3",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.3, \u00a7 117.3   Definitions., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.3@2016-12-19"
+  },
+  {
+    "id": "117.3@2017-06-28",
+    "section": "117.3",
+    "as_of": "2017-06-28",
+    "query": "Find 21 CFR 117.3, \u00a7 117.3   Definitions., as shown in the eCFR on 2017-06-28.",
+    "expected_id": "117.3@2016-12-19"
+  },
+  {
+    "id": "117.3@2017-06-29",
+    "section": "117.3",
+    "as_of": "2017-06-29",
+    "query": "Find 21 CFR 117.3, \u00a7 117.3   Definitions., as shown in the eCFR on 2017-06-29.",
+    "expected_id": "117.3@2017-06-29"
+  },
+  {
+    "id": "117.3@2026-10-29",
+    "section": "117.3",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.3, \u00a7 117.3   Definitions., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.3@2017-06-29"
+  },
+  {
+    "id": "117.405@2017-01-01",
+    "section": "117.405",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.405, \u00a7 117.405   Requirement to establish and implement a supply-chain program., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.405@2016-12-19"
+  },
+  {
+    "id": "117.405@2017-06-28",
+    "section": "117.405",
+    "as_of": "2017-06-28",
+    "query": "Find 21 CFR 117.405, \u00a7 117.405   Requirement to establish and implement a supply-chain program., as shown in the eCFR on 2017-06-28.",
+    "expected_id": "117.405@2016-12-19"
+  },
+  {
+    "id": "117.405@2017-06-29",
+    "section": "117.405",
+    "as_of": "2017-06-29",
+    "query": "Find 21 CFR 117.405, \u00a7 117.405   Requirement to establish and implement a supply-chain program., as shown in the eCFR on 2017-06-29.",
+    "expected_id": "117.405@2017-06-29"
+  },
+  {
+    "id": "117.405@2022-10-30",
+    "section": "117.405",
+    "as_of": "2022-10-30",
+    "query": "Find 21 CFR 117.405, \u00a7 117.405   Requirement to establish and implement a supply-chain program., as shown in the eCFR on 2022-10-30.",
+    "expected_id": "117.405@2017-06-29"
+  },
+  {
+    "id": "117.405@2022-10-31",
+    "section": "117.405",
+    "as_of": "2022-10-31",
+    "query": "Find 21 CFR 117.405, \u00a7 117.405   Requirement to establish and implement a supply-chain program., as shown in the eCFR on 2022-10-31.",
+    "expected_id": "117.405@2022-10-31"
+  },
+  {
+    "id": "117.405@2026-10-29",
+    "section": "117.405",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.405, \u00a7 117.405   Requirement to establish and implement a supply-chain program., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.405@2022-10-31"
+  },
+  {
+    "id": "117.420@2017-01-01",
+    "section": "117.420",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.420, \u00a7 117.420   Using approved suppliers., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.420@2016-12-19"
+  },
+  {
+    "id": "117.420@2017-04-04",
+    "section": "117.420",
+    "as_of": "2017-04-04",
+    "query": "Find 21 CFR 117.420, \u00a7 117.420   Using approved suppliers., as shown in the eCFR on 2017-04-04.",
+    "expected_id": "117.420@2016-12-19"
+  },
+  {
+    "id": "117.420@2017-04-05",
+    "section": "117.420",
+    "as_of": "2017-04-05",
+    "query": "Find 21 CFR 117.420, \u00a7 117.420   Using approved suppliers., as shown in the eCFR on 2017-04-05.",
+    "expected_id": "117.420@2017-04-05"
+  },
+  {
+    "id": "117.420@2026-10-29",
+    "section": "117.420",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.420, \u00a7 117.420   Using approved suppliers., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.420@2017-04-05"
+  },
+  {
+    "id": "117.435@2017-01-01",
+    "section": "117.435",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.435, \u00a7 117.435   Onsite audit., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.435@2016-12-19"
+  },
+  {
+    "id": "117.435@2022-10-30",
+    "section": "117.435",
+    "as_of": "2022-10-30",
+    "query": "Find 21 CFR 117.435, \u00a7 117.435   Onsite audit., as shown in the eCFR on 2022-10-30.",
+    "expected_id": "117.435@2016-12-19"
+  },
+  {
+    "id": "117.435@2022-10-31",
+    "section": "117.435",
+    "as_of": "2022-10-31",
+    "query": "Find 21 CFR 117.435, \u00a7 117.435   Onsite audit., as shown in the eCFR on 2022-10-31.",
+    "expected_id": "117.435@2022-10-31"
+  },
+  {
+    "id": "117.435@2026-10-29",
+    "section": "117.435",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.435, \u00a7 117.435   Onsite audit., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.435@2022-10-31"
+  },
+  {
+    "id": "117.475@2017-01-01",
+    "section": "117.475",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.475, \u00a7 117.475   Records documenting the supply-chain program., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.475@2016-12-19"
+  },
+  {
+    "id": "117.475@2017-06-28",
+    "section": "117.475",
+    "as_of": "2017-06-28",
+    "query": "Find 21 CFR 117.475, \u00a7 117.475   Records documenting the supply-chain program., as shown in the eCFR on 2017-06-28.",
+    "expected_id": "117.475@2016-12-19"
+  },
+  {
+    "id": "117.475@2017-06-29",
+    "section": "117.475",
+    "as_of": "2017-06-29",
+    "query": "Find 21 CFR 117.475, \u00a7 117.475   Records documenting the supply-chain program., as shown in the eCFR on 2017-06-29.",
+    "expected_id": "117.475@2017-06-29"
+  },
+  {
+    "id": "117.475@2022-10-30",
+    "section": "117.475",
+    "as_of": "2022-10-30",
+    "query": "Find 21 CFR 117.475, \u00a7 117.475   Records documenting the supply-chain program., as shown in the eCFR on 2022-10-30.",
+    "expected_id": "117.475@2017-06-29"
+  },
+  {
+    "id": "117.475@2022-10-31",
+    "section": "117.475",
+    "as_of": "2022-10-31",
+    "query": "Find 21 CFR 117.475, \u00a7 117.475   Records documenting the supply-chain program., as shown in the eCFR on 2022-10-31.",
+    "expected_id": "117.475@2022-10-31"
+  },
+  {
+    "id": "117.475@2026-10-29",
+    "section": "117.475",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.475, \u00a7 117.475   Records documenting the supply-chain program., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.475@2022-10-31"
+  },
+  {
+    "id": "117.5@2017-01-01",
+    "section": "117.5",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.5, \u00a7 117.5   Exemptions., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.5@2016-12-19"
+  },
+  {
+    "id": "117.5@2017-06-28",
+    "section": "117.5",
+    "as_of": "2017-06-28",
+    "query": "Find 21 CFR 117.5, \u00a7 117.5   Exemptions., as shown in the eCFR on 2017-06-28.",
+    "expected_id": "117.5@2016-12-19"
+  },
+  {
+    "id": "117.5@2017-06-29",
+    "section": "117.5",
+    "as_of": "2017-06-29",
+    "query": "Find 21 CFR 117.5, \u00a7 117.5   Exemptions., as shown in the eCFR on 2017-06-29.",
+    "expected_id": "117.5@2017-06-29"
+  },
+  {
+    "id": "117.5@2026-10-29",
+    "section": "117.5",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.5, \u00a7 117.5   Exemptions., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.5@2017-06-29"
+  },
+  {
+    "id": "117.8@2017-01-01",
+    "section": "117.8",
+    "as_of": "2017-01-01",
+    "query": "Find 21 CFR 117.8, \u201c\u00a7 117.8   Applicability of subpart B of this part to the off-farm packing and holding of raw agricultural commodities., as shown in the eCFR on 2017-01-01.",
+    "expected_id": "117.8@2016-12-19"
+  },
+  {
+    "id": "117.8@2017-06-28",
+    "section": "117.8",
+    "as_of": "2017-06-28",
+    "query": "Find 21 CFR 117.8, \u201c\u00a7 117.8   Applicability of subpart B of this part to the off-farm packing and holding of raw agricultural commodities., as shown in the eCFR on 2017-06-28.",
+    "expected_id": "117.8@2016-12-19"
+  },
+  {
+    "id": "117.8@2017-06-29",
+    "section": "117.8",
+    "as_of": "2017-06-29",
+    "query": "Find 21 CFR 117.8, \u00a7 117.8   Applicability of subpart B of this part to the off-farm packing and holding of raw agricultural commodities., as shown in the eCFR on 2017-06-29.",
+    "expected_id": "117.8@2017-06-29"
+  },
+  {
+    "id": "117.8@2026-10-29",
+    "section": "117.8",
+    "as_of": "2026-10-29",
+    "query": "Find 21 CFR 117.8, \u00a7 117.8   Applicability of subpart B of this part to the off-farm packing and holding of raw agricultural commodities., as shown in the eCFR on 2026-10-29.",
+    "expected_id": "117.8@2017-06-29"
+  }
+]

@@ -1,0 +1,1088 @@
+<?xml version="1.0"?>
+<DIV5 N="117" TYPE="PART" VOLUME="2" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-21/part-117&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;21 CFR Part 117&amp;quot;}">
+<HEAD>PART 117 - CURRENT GOOD MANUFACTURING PRACTICE, HAZARD ANALYSIS, AND RISK-BASED PREVENTIVE CONTROLS FOR HUMAN FOOD
+</HEAD>
+<AUTH>
+<HED>Authority:</HED><PSPACE>21 U.S.C. 331, 342, 343, 350d note, 350g, 350g note, 371, 374; 42 U.S.C. 243, 264, 271.
+</PSPACE></AUTH>
+<SOURCE>
+<HED>Source:</HED><PSPACE>80 FR 56145, Sept. 17, 2015, unless otherwise noted.
+</PSPACE></SOURCE>
+<EDNOTE>
+<HED>Editorial Note:</HED><PSPACE>Nomenclature changes to part 117 appear at 81 FR 49896, July 29, 2016.</PSPACE></EDNOTE>
+<DIV6 N="A" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-21/part-117/subpart-A&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;21 CFR Part 117 Subpart A&amp;quot;}">
+<HEAD>Subpart A - General Provisions</HEAD>
+<DIV8 N="117.1" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.1&quot;,&quot;citation&quot;:&quot;21 CFR 117.1&quot;}">
+<HEAD>&#xA7; 117.1 Applicability and status.</HEAD>
+<P>(a) The criteria and definitions in this part apply in determining whether a food is:</P>
+<P>(1) Adulterated within the meaning of:</P>
+<P>(i) Section 402(a)(3) of the Federal Food, Drug, and Cosmetic Act in that the food has been manufactured under such conditions that it is unfit for food; or</P>
+<P>(ii) Section 402(a)(4) of the Federal Food, Drug, and Cosmetic Act in that the food has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health; and</P>
+<P>(2) In violation of section 361 of the Public Health Service Act (42 U.S.C. 264).</P>
+<P>(b) The operation of a facility that manufactures, processes, packs, or holds food for sale in the United States if the owner, operator, or agent in charge of such facility is required to comply with, and is not in compliance with, section 418 of the Federal Food, Drug, and Cosmetic Act or subpart C, D, E, F, or G of this part is a prohibited act under section 301(uu) of the Federal Food, Drug, and Cosmetic Act.</P>
+<P>(c) Food covered by specific current good manufacturing practice regulations also is subject to the requirements of those regulations.</P>
+<CITA TYPE="N">[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3715, Jan. 22, 2016]
+</CITA>
+</DIV8>
+
+<DIV8 N="117.3" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.3&quot;,&quot;citation&quot;:&quot;21 CFR 117.3&quot;}">
+<HEAD>&#xA7; 117.3 Definitions.</HEAD>
+<P>The definitions and interpretations of terms in section 201 of the Federal Food, Drug, and Cosmetic Act apply to such terms when used in this part. The following definitions also apply:</P>
+<P><I>Acid foods</I> or <I>acidified foods</I> means foods that have an equilibrium pH of 4.6 or below.</P>
+<P><I>Adequate</I> means that which is needed to accomplish the intended purpose in keeping with good public health practice.</P>
+<P><I>Affiliate</I> means any facility that controls, is controlled by, or is under common control with another facility.</P>
+<P><I>Allergen cross-contact</I> means the unintentional incorporation of a food allergen into a food.</P>
+<P><I>Audit</I> means the systematic, independent, and documented examination (through observation, investigation, records review, discussions with employees of the audited entity, and, as appropriate, sampling and laboratory analysis) to assess an audited entity's food safety processes and procedures.</P>
+<P><I>Batter</I> means a semifluid substance, usually composed of flour and other ingredients, into which principal components of food are dipped or with which they are coated, or which may be used directly to form bakery foods.</P>
+<P><I>Blanching,</I> except for tree nuts and peanuts, means a prepackaging heat treatment of foodstuffs for an adequate time and at an adequate temperature to partially or completely inactivate the naturally occurring enzymes and to effect other physical or biochemical changes in the food.</P>
+<P><I>Calendar day</I> means every day shown on the calendar.</P>
+<P><I>Correction</I> means an action to identify and correct a problem that occurred during the production of food, without other actions associated with a corrective action procedure (such as actions to reduce the likelihood that the problem will recur, evaluate all affected food for safety, and prevent affected food from entering commerce).</P>
+<P><I>Critical control point</I> means a point, step, or procedure in a food process at which control can be applied and is essential to prevent or eliminate a food safety hazard or reduce such hazard to an acceptable level.</P>
+<P><I>Defect action level</I> means a level of a non-hazardous, naturally occurring, unavoidable defect at which FDA may regard a food product &#x201C;adulterated&#x201D; and subject to enforcement action under section 402(a)(3) of the Federal Food, Drug, and Cosmetic Act.</P>
+<P><I>Environmental pathogen</I> means a pathogen capable of surviving and persisting within the manufacturing, processing, packing, or holding environment such that food may be contaminated and may result in foodborne illness if that food is consumed without treatment to significantly minimize the environmental pathogen. Examples of environmental pathogens for the purposes of this part include <I>Listeria monocytogenes</I> and <I>Salmonella</I> spp. but do not include the spores of pathogenic sporeforming bacteria.</P>
+<P><I>Facility</I> means a domestic facility or a foreign facility that is required to register under section 415 of the Federal Food, Drug, and Cosmetic Act, in accordance with the requirements of part 1, subpart H of this chapter.</P>
+<P><I>Farm</I> means farm as defined in &#xA7; 1.227 of this chapter.</P>
+<P><I>FDA</I> means the Food and Drug Administration.</P>
+<P><I>Food</I> means food as defined in section 201(f) of the Federal Food, Drug, and Cosmetic Act and includes raw materials and ingredients.</P>
+<P><I>Food allergen</I> means a major food allergen as defined in section 201(qq) of the Federal Food, Drug, and Cosmetic Act.</P>
+<P><I>Food-contact surfaces</I> are those surfaces that contact human food and those surfaces from which drainage, or other transfer, onto the food or onto surfaces that contact the food ordinarily occurs during the normal course of operations. &#x201C;Food-contact surfaces&#x201D; includes utensils and food-contact surfaces of equipment.</P>
+<P><I>Full-time equivalent employee</I> is a term used to represent the number of employees of a business entity for the purpose of determining whether the business qualifies for the small business exemption. The number of full-time equivalent employees is determined by dividing the total number of hours of salary or wages paid directly to employees of the business entity and of all of its affiliates and subsidiaries by the number of hours of work in 1 year, 2,080 hours (<I>i.e.,</I> 40 hours &#xD7; 52 weeks). If the result is not a whole number, round down to the next lowest whole number.</P>
+<P><I>Harvesting</I> applies to farms and farm mixed-type facilities and means activities that are traditionally performed on farms for the purpose of removing raw agricultural commodities from the place they were grown or raised and preparing them for use as food. Harvesting is limited to activities performed on raw agricultural commodities, or on processed foods created by drying/dehydrating a raw agricultural commodity without additional manufacturing/processing, on a farm. Harvesting does not include activities that transform a raw agricultural commodity into a processed food as defined in section 201(gg) of the Federal Food, Drug, and Cosmetic Act. Examples of harvesting include cutting (or otherwise separating) the edible portion of the raw agricultural commodity from the crop plant and removing or trimming part of the raw agricultural commodity (<I>e.g.,</I> foliage, husks, roots or stems). Examples of harvesting also include cooling, field coring, filtering, gathering, hulling, shelling, sifting, threshing, trimming of outer leaves of, and washing raw agricultural commodities grown on a farm.</P>
+<P><I>Hazard</I> means any biological, chemical (including radiological), or physical agent that has the potential to cause illness or injury.</P>
+<P><I>Hazard requiring a preventive control</I> means a known or reasonably foreseeable hazard for which a person knowledgeable about the safe manufacturing, processing, packing, or holding of food would, based on the outcome of a hazard analysis (which includes an assessment of the severity of the illness or injury if the hazard were to occur and the probability that the hazard will occur in the absence of preventive controls), establish one or more preventive controls to significantly minimize or prevent the hazard in a food and components to manage those controls (such as monitoring, corrections or corrective actions, verification, and records) as appropriate to the food, the facility, and the nature of the preventive control and its role in the facility's food safety system.</P>
+<P><I>Holding</I> means storage of food and also includes activities performed incidental to storage of a food (<I>e.g.,</I> activities performed for the safe or effective storage of that food, such as fumigating food during storage, and drying/dehydrating raw agricultural commodities when the drying/dehydrating does not create a distinct commodity (such as drying/dehydrating hay or alfalfa)). Holding also includes activities performed as a practical necessity for the distribution of that food (such as blending of the same raw agricultural commodity and breaking down pallets), but does not include activities that transform a raw agricultural commodity into a processed food as defined in section 201(gg) of the Federal Food, Drug, and Cosmetic Act. Holding facilities could include warehouses, cold storage facilities, storage silos, grain elevators, and liquid storage tanks.</P>
+<P><I>Known or reasonably foreseeable hazard</I> means a biological, chemical (including radiological), or physical hazard that is known to be, or has the potential to be, associated with the facility or the food.</P>
+<P><I>Lot</I> means the food produced during a period of time and identified by an establishment's specific code.</P>
+<P><I>Manufacturing/processing</I> means making food from one or more ingredients, or synthesizing, preparing, treating, modifying or manipulating food, including food crops or ingredients. Examples of manufacturing/processing activities include: Baking, boiling, bottling, canning, cooking, cooling, cutting, distilling, drying/dehydrating raw agricultural commodities to create a distinct commodity (such as drying/dehydrating grapes to produce raisins), evaporating, eviscerating, extracting juice, formulating, freezing, grinding, homogenizing, irradiating, labeling, milling, mixing, packaging (including modified atmosphere packaging), pasteurizing, peeling, rendering, treating to manipulate ripening, trimming, washing, or waxing. For farms and farm mixed-type facilities, manufacturing/processing does not include activities that are part of harvesting, packing, or holding.</P>
+<P><I>Microorganisms</I> means yeasts, molds, bacteria, viruses, protozoa, and microscopic parasites and includes species that are pathogens. The term &#x201C;undesirable microorganisms&#x201D; includes those microorganisms that are pathogens, that subject food to decomposition, that indicate that food is contaminated with filth, or that otherwise may cause food to be adulterated.</P>
+<P><I>Mixed-type facility</I> means an establishment that engages in both activities that are exempt from registration under section 415 of the Federal Food, Drug, and Cosmetic Act and activities that require the establishment to be registered. An example of such a facility is a &#x201C;farm mixed-type facility,&#x201D; which is an establishment that is a farm, but also conducts activities outside the farm definition that require the establishment to be registered.</P>
+<P><I>Monitor</I> means to conduct a planned sequence of observations or measurements to assess whether control measures are operating as intended.</P>
+<P><I>Packing</I> means placing food into a container other than packaging the food and also includes re-packing and activities performed incidental to packing or re-packing a food (<I>e.g.,</I> activities performed for the safe or effective packing or re-packing of that food (such as sorting, culling, grading, and weighing or conveying incidental to packing or re-packing)), but does not include activities that transform a raw agricultural commodity into a processed food as defined in section 201(gg) of the Federal Food, Drug, and Cosmetic Act.</P>
+<P><I>Pathogen</I> means a microorganism of public health significance.</P>
+<P><I>Pest</I> refers to any objectionable animals or insects including birds, rodents, flies, and larvae.</P>
+<P><I>Plant</I> means the building or structure or parts thereof, used for or in connection with the manufacturing, processing, packing, or holding of human food.</P>
+<P><I>Preventive controls</I> means those risk-based, reasonably appropriate procedures, practices, and processes that a person knowledgeable about the safe manufacturing, processing, packing, or holding of food would employ to significantly minimize or prevent the hazards identified under the hazard analysis that are consistent with the current scientific understanding of safe food manufacturing, processing, packing, or holding at the time of the analysis.</P>
+<P><I>Preventive controls qualified individual</I> means a qualified individual who has successfully completed training in the development and application of risk-based preventive controls at least equivalent to that received under a standardized curriculum recognized as adequate by FDA or is otherwise qualified through job experience to develop and apply a food safety system.</P>
+<P><I>Qualified auditor</I> means a person who is a qualified individual as defined in this part and has technical expertise obtained through education, training, or experience (or a combination thereof) necessary to perform the auditing function as required by &#xA7; 117.180(c)(2). Examples of potential qualified auditors include:</P>
+<P>(1) A government employee, including a foreign government employee; and</P>
+<P>(2) An audit agent of a certification body that is accredited in accordance with regulations in part 1, subpart M of this chapter.</P>
+<P><I>Qualified end-user,</I> with respect to a food, means the consumer of the food (where the term consumer does not include a business); or a restaurant or retail food establishment (as those terms are defined in &#xA7; 1.227 of this chapter) that:</P>
+<P>(1) Is located:</P>
+<P>(i) In the same State or the same Indian reservation as the qualified facility that sold the food to such restaurant or establishment; or</P>
+<P>(ii) Not more than 275 miles from such facility; and</P>
+<P>(2) Is purchasing the food for sale directly to consumers at such restaurant or retail food establishment.</P>
+<P><I>Qualified facility</I> means (when including the sales by any subsidiary; affiliate; or subsidiaries or affiliates, collectively, of any entity of which the facility is a subsidiary or affiliate) a facility that is a very small business as defined in this part, or a facility to which both of the following apply:</P>
+<P>(1) During the 3-year period preceding the applicable calendar year, the average annual monetary value of the food manufactured, processed, packed or held at such facility that is sold directly to qualified end-users (as defined in this part) during such period exceeded the average annual monetary value of the food sold by such facility to all other purchasers; and</P>
+<P>(2) The average annual monetary value of all food sold during the 3-year period preceding the applicable calendar year was less than $500,000, adjusted for inflation.</P>
+<P><I>Qualified facility exemption</I> means an exemption applicable to a qualified facility under &#xA7; 117.5(a).</P>
+<P><I>Qualified individual</I> means a person who has the education, training, or experience (or a combination thereof) necessary to manufacture, process, pack, or hold clean and safe food as appropriate to the individual's assigned duties. A qualified individual may be, but is not required to be, an employee of the establishment.</P>
+<P><I>Quality control operation</I> means a planned and systematic procedure for taking all actions necessary to prevent food from being adulterated.</P>
+<P><I>Raw agricultural commodity</I> has the meaning given in section 201(r) of the Federal Food, Drug, and Cosmetic Act.</P>
+<P><I>Ready-to-eat food (RTE food)</I> means any food that is normally eaten in its raw state or any other food, including a processed food, for which it is reasonably foreseeable that the food will be eaten without further processing that would significantly minimize biological hazards.</P>
+<P><I>Receiving facility</I> means a facility that is subject to subparts C and G of this part and that manufactures/processes a raw material or other ingredient that it receives from a supplier.</P>
+<P><I>Rework</I> means clean, unadulterated food that has been removed from processing for reasons other than insanitary conditions or that has been successfully reconditioned by reprocessing and that is suitable for use as food.</P>
+<P><I>Safe-moisture level</I> is a level of moisture low enough to prevent the growth of undesirable microorganisms in the finished product under the intended conditions of manufacturing, processing, packing, and holding. The safe moisture level for a food is related to its water activity (a<E T="52">w</E>). An a<E T="52">w</E> will be considered safe for a food if adequate data are available that demonstrate that the food at or below the given a<E T="52">w</E> will not support the growth of undesirable microorganisms.</P>
+<P><I>Sanitize</I> means to adequately treat cleaned surfaces by a process that is effective in destroying vegetative cells of pathogens, and in substantially reducing numbers of other undesirable microorganisms, but without adversely affecting the product or its safety for the consumer.</P>
+<P><I>Significantly minimize</I> means to reduce to an acceptable level, including to eliminate.</P>
+<P><I>Small business</I> means, for purposes of this part, a business (including any subsidiaries and affiliates) employing fewer than 500 full-time equivalent employees.</P>
+<P><I>Subsidiary</I> means any company which is owned or controlled directly or indirectly by another company.</P>
+<P><I>Supplier</I> means the establishment that manufactures/processes the food, raises the animal, or grows the food that is provided to a receiving facility without further manufacturing/processing by another establishment, except for further manufacturing/processing that consists solely of the addition of labeling or similar activity of a <I>de minimis</I> nature.</P>
+<P><I>Supply-chain-applied control</I> means a preventive control for a hazard in a raw material or other ingredient when the hazard in the raw material or other ingredient is controlled before its receipt.</P>
+<P><I>Unexposed packaged food</I> means packaged food that is not exposed to the environment.</P>
+<P><I>Validation</I> means obtaining and evaluating scientific and technical evidence that a control measure, combination of control measures, or the food safety plan as a whole, when properly implemented, is capable of effectively controlling the identified hazards.</P>
+<P><I>Verification</I> means the application of methods, procedures, tests and other evaluations, in addition to monitoring, to determine whether a control measure or combination of control measures is or has been operating as intended and to establish the validity of the food safety plan.</P>
+<P><I>Very small business</I> means, for purposes of this part, a business (including any subsidiaries and affiliates) averaging less than $1,000,000, adjusted for inflation, per year, during the 3-year period preceding the applicable calendar year in sales of human food plus the market value of human food manufactured, processed, packed, or held without sale (<I>e.g.,</I> held for a fee).</P>
+<P><I>Water activity</I> (a<E T="52">w</E>) is a measure of the free moisture in a food and is the quotient of the water vapor pressure of the substance divided by the vapor pressure of pure water at the same temperature.</P>
+<P><I>Written procedures for receiving raw materials and other ingredients</I> means written procedures to ensure that raw materials and other ingredients are received only from suppliers approved by the receiving facility (or, when necessary and appropriate, on a temporary basis from unapproved suppliers whose raw materials or other ingredients are subjected to adequate verification activities before acceptance for use).</P>
+<P><I>You</I> means, for purposes of this part, the owner, operator, or agent in charge of a facility.</P>
+<CITA TYPE="N">[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3715, Jan. 22, 2016]
+</CITA>
+</DIV8>
+
+<DIV8 N="117.4" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.4&quot;,&quot;citation&quot;:&quot;21 CFR 117.4&quot;}">
+<HEAD>&#xA7; 117.4 Qualifications of individuals who manufacture, process, pack, or hold food.</HEAD>
+<P>(a) <I>Applicability.</I> (1) The management of an establishment must ensure that all individuals who manufacture, process, pack, or hold food subject to subparts B and F of this part are qualified to perform their assigned duties.</P>
+<P>(2) The owner, operator, or agent in charge of a facility must ensure that all individuals who manufacture, process, pack, or hold food subject to subpart C, D, E, F, or G of this part are qualified to perform their assigned duties.</P>
+<P>(b) <I>Qualifications of all individuals engaged in manufacturing, processing, packing, or holding food.</I> Each individual engaged in manufacturing, processing, packing, or holding food (including temporary and seasonal personnel) or in the supervision thereof must:</P>
+<P>(1) Be a qualified individual as that term is defined in &#xA7; 117.3&#x2014;<I>i.e.,</I> have the education, training, or experience (or a combination thereof) necessary to manufacture, process, pack, or hold clean and safe food as appropriate to the individual's assigned duties; and</P>
+<P>(2) Receive training in the principles of food hygiene and food safety, including the importance of employee health and personal hygiene, as appropriate to the food, the facility and the individual's assigned duties.</P>
+<P>(c) <I>Additional qualifications of supervisory personnel.</I> Responsibility for ensuring compliance by individuals with the requirements of this part must be clearly assigned to supervisory personnel who have the education, training, or experience (or a combination thereof) necessary to supervise the production of clean and safe food.</P>
+<P>(d) <I>Records.</I> Records that document training required by paragraph (b)(2) of this section must be established and maintained.</P>
+</DIV8>
+
+<DIV8 N="117.5" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.5&quot;,&quot;citation&quot;:&quot;21 CFR 117.5&quot;}">
+<HEAD>&#xA7; 117.5 Exemptions.</HEAD>
+<P>(a) Except as provided by subpart E of this part, subparts C and G of this part do not apply to a qualified facility. Qualified facilities are subject to the modified requirements in &#xA7; 117.201.</P>
+<P>(b) Subparts C and G of this part do not apply with respect to activities that are subject to part 123 of this chapter (Fish and Fishery Products) at a facility if you are required to comply with, and are in compliance with, part 123 of this chapter with respect to such activities.</P>
+<P>(c) Subparts C and G of this part do not apply with respect to activities that are subject to part 120 of this chapter (Hazard Analysis and Critical Control Point (HACCP) Systems) at a facility if you are required to comply with, and are in compliance with, part 120 of this chapter with respect to such activities.</P>
+<P>(d)(1) Subparts C and G of this part do not apply with respect to activities that are subject to part 113 of this chapter (Thermally Processed Low-Acid Foods Packaged in Hermetically Sealed Containers) at a facility if you are required to comply with, and are in compliance with, part 113 of this chapter with respect to such activities.</P>
+<P>(2) The exemption in paragraph (d)(1) of this section is applicable only with respect to the microbiological hazards that are regulated under part 113 of this chapter.</P>
+<P>(e) Subparts C and G do not apply to any facility with regard to the manufacturing, processing, packaging, or holding of a dietary supplement that is in compliance with the requirements of part 111 of this chapter (Current Good Manufacturing Practice in Manufacturing, Packaging, Labeling, or Holding Operations for Dietary Supplements) and section 761 of the Federal Food, Drug, and Cosmetic Act (Serious Adverse Event Reporting for Dietary Supplements).</P>
+<P>(f) Subparts C and G of this part do not apply to activities of a facility that are subject to section 419 of the Federal Food, Drug, and Cosmetic Act (Standards for Produce Safety).</P>
+<P>(g)(1) The exemption in paragraph (g)(3) of this section applies to packing or holding of processed foods on a farm mixed-type facility, except for processed foods produced by drying/dehydrating raw agricultural commodities to create a distinct commodity (such as drying/dehydrating grapes to produce raisins, and drying/dehydrating fresh herbs to produce dried herbs), and packaging and labeling such commodities, without additional manufacturing/processing (such as chopping and slicing), the packing and holding of which are within the &#x201C;farm&#x201D; definition in &#xA7; 1.227 of this chapter. Activities that are within the &#x201C;farm&#x201D; definition, when conducted on a farm mixed-type facility, are not subject to the requirements of subparts C and G of this part and therefore do not need to be specified in the exemption.</P>
+<P>(2) For the purposes of paragraphs (g)(3) and (h)(3) of this section, the following terms describe the foods associated with the activity/food combinations. Several foods that are fruits or vegetables are separately considered for the purposes of these activity/food combinations (<I>i.e.,</I> coffee beans, cocoa beans, fresh herbs, peanuts, sugarcane, sugar beets, tree nuts, seeds for direct consumption) to appropriately address specific hazards associated with these foods and/or processing activities conducted on these foods.</P>
+<P>(i) <I>Dried/dehydrated fruit and vegetable products</I> includes only those processed food products such as raisins and dried legumes made without additional manufacturing/processing beyond drying/dehydrating, packaging, and/or labeling.</P>
+<P>(ii) <I>Other fruit and vegetable products</I> includes those processed food products that have undergone one or more of the following processes: acidification, boiling, canning, coating with things other than wax/oil/resin, cooking, cutting, chopping, grinding, peeling, shredding, slicing, or trimming. Examples include flours made from legumes (such as chickpea flour), pickles, and snack chips made from potatoes or plantains. Examples also include dried fruit and vegetable products made with additional manufacturing/processing (such as dried apple slices; pitted, dried plums, cherries, and apricots; and sulfited raisins). This category does not include dried/dehydrated fruit and vegetable products made without additional manufacturing/processing as described in paragraph (g)(2)(i) of this section. This category also does not include products that require time/temperature control for safety (such as fresh-cut fruits and vegetables).</P>
+<P>(iii) <I>Peanut and tree nut products</I> includes processed food products such as roasted peanuts and tree nuts, seasoned peanuts and tree nuts, and peanut and tree nut flours.</P>
+<P>(iv) <I>Processed seeds for direct consumption</I> include processed food products such as roasted pumpkin seeds, roasted sunflower seeds, and roasted flax seeds.</P>
+<P>(v) <I>Dried/dehydrated herb and spice products</I> includes only processed food products such as dried intact herbs made without additional manufacturing/processing beyond drying/dehydrating, packaging, and/or labeling.</P>
+<P>(vi) <I>Other herb and spice products</I> includes those processed food products such as chopped fresh herbs, chopped or ground dried herbs (including tea), herbal extracts (<I>e.g.,</I> essential oils, extracts containing more than 20 percent ethanol, extracts containing more than 35 percent glycerin), dried herb- or spice-infused honey, and dried herb- or spice-infused oils and/or vinegars. This category does not include dried/dehydrated herb and spice products made without additional manufacturing/processing beyond drying/dehydrating, packaging, and/or labeling as described in paragraph (g)(2)(v) of this section. This category also does not include products that require time/temperature control for safety, such as fresh herb-infused oils.</P>
+<P>(vii) <I>Grains</I> include barley, dent- or flint-corn, sorghum, oats, rice, rye, wheat, amaranth, quinoa, buckwheat and oilseeds for oil extraction (such as cotton seed, flax seed, rapeseed, soybeans, and sunflower seed).</P>
+<P>(viii) <I>Milled grain products</I> include processed food products such as flour, bran, and corn meal.</P>
+<P>(ix) <I>Baked goods</I> include processed food products such as breads, brownies, cakes, cookies, and crackers. This category does not include products that require time/temperature control for safety, such as cream-filled pastries.</P>
+<P>(x) <I>Other grain products</I> include processed food products such as dried cereal, dried pasta, oat flakes, and popcorn. This category does not include milled grain products as described in paragraph (g)(2)(viii) of this section or baked goods as described in paragraph (g)(2)(ix) of this section.</P>
+<P>(3) Subparts C and G of this part do not apply to on-farm packing or holding of food by a small or very small business, and &#xA7; 117.201 does not apply to on-farm packing or holding of food by a very small business, if the only packing and holding activities subject to section 418 of the Federal Food, Drug, and Cosmetic Act that the business conducts are the following low-risk packing or holding activity/food combinations&#x2014;<I>i.e.,</I> packing (or re-packing) (including weighing or conveying incidental to packing or re-packing); sorting, culling, or grading incidental to packing or storing; and storing (ambient, cold and controlled atmosphere) of:</P>
+<P>(i) Baked goods (<I>e.g.,</I> bread and cookies);</P>
+<P>(ii) Candy (<I>e.g.,</I> hard candy, fudge, maple candy, maple cream, nut brittles, taffy, and toffee);</P>
+<P>(iii) Cocoa beans (roasted);</P>
+<P>(iv) Cocoa products;</P>
+<P>(v) Coffee beans (roasted);</P>
+<P>(vi) Game meat jerky;</P>
+<P>(vii) Gums, latexes, and resins that are processed foods;</P>
+<P>(viii) Honey (pasteurized);</P>
+<P>(ix) Jams, jellies, and preserves;</P>
+<P>(x) Milled grain products (<I>e.g.,</I> flour, bran, and corn meal);</P>
+<P>(xi) Molasses and treacle;</P>
+<P>(xii) Oils (<I>e.g.,</I> olive oil and sunflower seed oil);</P>
+<P>(xiii) Other fruit and vegetable products (<I>e.g.,</I> flours made from legumes; pitted, dried fruits; sliced, dried apples; snack chips);</P>
+<P>(xiv) Other grain products (<I>e.g.,</I> dried pasta, oat flakes, and popcorn);</P>
+<P>(xv) Other herb and spice products (<I>e.g.,</I> chopped or ground dried herbs, herbal extracts);</P>
+<P>(xvi) Peanut and tree nut products (<I>e.g.,</I> roasted peanuts and tree nut flours);</P>
+<P>(xvii) Processed seeds for direct consumption (<I>e.g.,</I> roasted pumpkin seeds);</P>
+<P>(xviii) Soft drinks and carbonated water;</P>
+<P>(xix) Sugar;</P>
+<P>(xx) Syrups (<I>e.g.,</I> maple syrup and agave syrup);</P>
+<P>(xxi) Trail mix and granola;</P>
+<P>(xxii) Vinegar; and</P>
+<P>(xxiii) Any other processed food that does not require time/temperature control for safety (e.g., vitamins, minerals, and dietary ingredients (<I>e.g.,</I> bone meal) in powdered, granular, or other solid form).</P>
+<P>(h)(1) The exemption in paragraph (h)(3) of this section applies to manufacturing/processing of foods on a farm mixed-type facility, except for manufacturing/processing that is within the &#x201C;farm&#x201D; definition in &#xA7; 1.227 of this chapter. Drying/dehydrating raw agricultural commodities to create a distinct commodity (such as drying/dehydrating grapes to produce raisins, and drying/dehydrating fresh herbs to produce dried herbs), and packaging and labeling such commodities, without additional manufacturing/processing (such as chopping and slicing), are within the &#x201C;farm&#x201D; definition in &#xA7; 1.227 of this chapter. In addition, treatment to manipulate ripening of raw agricultural commodities (such as by treating produce with ethylene gas), and packaging and labeling the treated raw agricultural commodities, without additional manufacturing/processing, is within the &#x201C;farm&#x201D; definition. In addition, coating intact fruits and vegetables with wax, oil, or resin used for the purpose of storage or transportation is within the &#x201C;farm&#x201D; definition. Activities that are within the &#x201C;farm&#x201D; definition, when conducted on a farm mixed-type facility, are not subject to the requirements of subparts C and G of this part and therefore do not need to be specified in the exemption.</P>
+<P>(2) The terms in paragraph (g)(2) of this section describe certain foods associated with the activity/food combinations in paragraph (h)(3) of this section.</P>
+<P>(3) Subparts C and G of this part do not apply to on-farm manufacturing/processing activities conducted by a small or very small business for distribution into commerce, and &#xA7; 117.201 does not apply to on-farm manufacturing/processing activities conducted by a very small business for distribution into commerce, if the only manufacturing/processing activities subject to section 418 of the Federal Food, Drug, and Cosmetic Act that the business conducts are the following low-risk manufacturing/processing activity/food combinations:</P>
+<P>(i) Boiling gums, latexes, and resins;</P>
+<P>(ii) Chopping, coring, cutting, peeling, pitting, shredding, and slicing acid fruits and vegetables that have a pH less than 4.2 (<I>e.g.,</I> cutting lemons and limes), baked goods (<I>e.g.,</I> slicing bread), dried/dehydrated fruit and vegetable products (<I>e.g.,</I> pitting dried plums), dried herbs and other spices (<I>e.g.,</I> chopping intact, dried basil), game meat jerky, gums/latexes/resins, other grain products (<I>e.g.,</I> shredding dried cereal), peanuts and tree nuts, and peanut and tree nut products (<I>e.g.,</I> chopping roasted peanuts);</P>
+<P>(iii) Coating dried/dehydrated fruit and vegetable products (<I>e.g.,</I> coating raisins with chocolate), other fruit and vegetable products except for non-dried, non-intact fruits and vegetables (<I>e.g.,</I> coating dried plum pieces, dried pitted cherries, and dried pitted apricots with chocolate are low-risk activity/food combinations but coating apples on a stick with caramel is not a low-risk activity/food combination), other grain products (<I>e.g.,</I> adding caramel to popcorn or adding seasonings to popcorn provided that the seasonings have been treated to significantly minimize pathogens, peanuts and tree nuts (<I>e.g.,</I> adding seasonings provided that the seasonings have been treated to significantly minimize pathogens), and peanut and tree nut products (<I>e.g.,</I> adding seasonings provided that the seasonings have been treated to significantly minimize pathogens));</P>
+<P>(iv) Drying/dehydrating (that includes additional manufacturing or is performed on processed foods) other fruit and vegetable products with pH less than 4.2 (<I>e.g.,</I> drying cut fruit and vegetables with pH less than 4.2), and other herb and spice products (<I>e.g.,</I> drying chopped fresh herbs, including tea);</P>
+<P>(v) Extracting (including by pressing, by distilling, and by solvent extraction) dried/dehydrated herb and spice products (<I>e.g.,</I> dried mint), fresh herbs (<I>e.g.,</I> fresh mint), fruits and vegetables (<I>e.g.,</I> olives, avocados), grains (<I>e.g.,</I> oilseeds), and other herb and spice products (<I>e.g.,</I> chopped fresh mint, chopped dried mint);</P>
+<P>(vi) Freezing acid fruits and vegetables with pH less than 4.2 and other fruit and vegetable products with pH less than 4.2 (<I>e.g.,</I> cut fruits and vegetables);</P>
+<P>(vii) Grinding/cracking/crushing/milling baked goods (<I>e.g.,</I> crackers), cocoa beans (roasted), coffee beans (roasted), dried/dehydrated fruit and vegetable products (<I>e.g.,</I> raisins and dried legumes), dried/dehydrated herb and spice products (<I>e.g.,</I> intact dried basil), grains (<I>e.g.,</I> oats, rice, rye, wheat), other fruit and vegetable products (<I>e.g.,</I> dried, pitted dates), other grain products (<I>e.g.,</I> dried cereal), other herb and spice products (<I>e.g.,</I> chopped dried herbs), peanuts and tree nuts, and peanut and tree nut products (<I>e.g.,</I> roasted peanuts);</P>
+<P>(viii) Labeling baked goods that do not contain food allergens, candy that does not contain food allergens, cocoa beans (roasted), cocoa products that do not contain food allergens), coffee beans (roasted), game meat jerky, gums/latexes/resins that are processed foods, honey (pasteurized), jams/jellies/preserves, milled grain products that do not contain food allergens (<I>e.g.,</I> corn meal) or that are single-ingredient foods (<I>e.g.,</I> wheat flour, wheat bran), molasses and treacle, oils, other fruit and vegetable products that do not contain food allergens (<I>e.g.,</I> snack chips made from potatoes or plantains), other grain products that do not contain food allergens (<I>e.g.,</I> popcorn), other herb and spice products (<I>e.g.,</I> chopped or ground dried herbs), peanut or tree nut products, (provided that they are single-ingredient, or are in forms in which the consumer can reasonably be expected to recognize the food allergen(s) without label declaration, or both (<I>e.g.,</I> roasted or seasoned whole nuts, single-ingredient peanut or tree nut flours)), processed seeds for direct consumption, soft drinks and carbonated water, sugar, syrups, trail mix and granola (other than those containing milk chocolate and provided that peanuts and/or tree nuts are in forms in which the consumer can reasonably be expected to recognize the food allergen(s) without label declaration), vinegar, and any other processed food that does not require time/temperature control for safety and that does not contain food allergens (<I>e.g.,</I> vitamins, minerals, and dietary ingredients (<I>e.g.,</I> bone meal) in powdered, granular, or other solid form);</P>
+<P>(ix) Making baked goods from milled grain products (<I>e.g.,</I> breads and cookies);</P>
+<P>(x) Making candy from peanuts and tree nuts (<I>e.g.,</I> nut brittles), sugar/syrups (<I>e.g.,</I> taffy, toffee), and saps (<I>e.g.,</I> maple candy, maple cream);</P>
+<P>(xi) Making cocoa products from roasted cocoa beans;</P>
+<P>(xii) Making dried pasta from grains;</P>
+<P>(xiii) Making jams, jellies, and preserves from acid fruits and vegetables with a pH of 4.6 or below;</P>
+<P>(xiv) Making molasses and treacle from sugar beets and sugarcane;</P>
+<P>(xv) Making oat flakes from grains;</P>
+<P>(xvi) Making popcorn from grains;</P>
+<P>(xvii) Making snack chips from fruits and vegetables (<I>e.g.,</I> making plantain and potato chips);</P>
+<P>(xviii) Making soft drinks and carbonated water from sugar, syrups, and water;</P>
+<P>(xix) Making sugars and syrups from fruits and vegetables (<I>e.g.,</I> dates), grains (<I>e.g.,</I> rice, sorghum), other grain products (<I>e.g.,</I> malted grains such as barley), saps (<I>e.g.,</I> agave, birch, maple, palm), sugar beets, and sugarcane;</P>
+<P>(xx) Making trail mix and granola from cocoa products (<I>e.g.,</I> chocolate), dried/dehydrated fruit and vegetable products (<I>e.g.,</I> raisins), other fruit and vegetable products (<I>e.g.,</I> chopped dried fruits), other grain products (<I>e.g.,</I> oat flakes), peanut and tree nut products, and processed seeds for direct consumption, provided that peanuts, tree nuts, and processed seeds are treated to significantly minimize pathogens;</P>
+<P>(xxi) Making vinegar from fruits and vegetables, other fruit and vegetable products (<I>e.g.,</I> fruit wines, apple cider), and other grain products (<I>e.g.,</I> malt);</P>
+<P>(xxii) Mixing baked goods (<I>e.g.,</I> types of cookies), candy (<I>e.g.,</I> varieties of taffy), cocoa beans (roasted), coffee beans (roasted), dried/dehydrated fruit and vegetable products (<I>e.g.,</I> dried blueberries, dried currants, and raisins), dried/dehydrated herb and spice products (<I>e.g.,</I> dried, intact basil and dried, intact oregano), honey (pasteurized), milled grain products (<I>e.g.,</I> flour, bran, and corn meal), other fruit and vegetable products (<I>e.g.,</I> dried, sliced apples and dried, sliced peaches), other grain products (<I>e.g.,</I> different types of dried pasta), other herb and spice products (<I>e.g.,</I> chopped or ground dried herbs, dried herb- or spice-infused honey, and dried herb- or spice-infused oils and/or vinegars), peanut and tree nut products, sugar, syrups, vinegar, and any other processed food that does not require time/temperature control for safety (<I>e.g.,</I> vitamins, minerals, and dietary ingredients (<I>e.g.,</I> bone meal) in powdered, granular, or other solid form);</P>
+<P>(xxiii) Packaging baked goods (<I>e.g.,</I> bread and cookies), candy, cocoa beans (roasted), cocoa products, coffee beans (roasted), game meat jerky, gums/latexes/resins that are processed foods, honey (pasteurized), jams/jellies/preserves, milled grain products (<I>e.g.,</I> flour, bran, corn meal), molasses and treacle, oils, other fruit and vegetable products (<I>e.g.,</I> pitted, dried fruits; sliced, dried apples; snack chips), other grain products (<I>e.g.,</I> popcorn), other herb and spice products (<I>e.g.,</I> chopped or ground dried herbs), peanut and tree nut products, processed seeds for direct consumption, soft drinks and carbonated water, sugar, syrups, trail mix and granola, vinegar, and any other processed food that does not require time/temperature control for safety (<I>e.g.,</I> vitamins, minerals, and dietary ingredients (<I>e.g.,</I> bone meal) in powdered, granular, or other solid form);</P>
+<P>(xxiv) Pasteurizing honey;</P>
+<P>(xxv) Roasting and toasting baked goods (<I>e.g.,</I> toasting bread for croutons);</P>
+<P>(xxvi) Salting other grain products (<I>e.g.,</I> soy nuts), peanut and tree nut products, and processed seeds for direct consumption; and</P>
+<P>(xxvii) Sifting milled grain products (<I>e.g.,</I> flour, bran, corn meal), other fruit and vegetable products (<I>e.g.,</I> chickpea flour), and peanut and tree nut products (<I>e.g.,</I> peanut flour, almond flour).</P>
+<P>(i)(1) Subparts C and G of this part do not apply with respect to alcoholic beverages at a facility that meets the following two conditions:</P>
+<P>(i) Under the Federal Alcohol Administration Act (27 U.S.C. 201 <I>et seq.</I>) or chapter 51 of subtitle E of the Internal Revenue Code of 1986 (26 U.S.C. 5001 <I>et seq.</I>) the facility is required to obtain a permit from, register with, or obtain approval of a notice or application from the Secretary of the Treasury as a condition of doing business in the United States, or is a foreign facility of a type that would require such a permit, registration, or approval if it were a domestic facility; and</P>
+<P>(ii) Under section 415 of the Federal Food, Drug, and Cosmetic Act the facility is required to register as a facility because it is engaged in manufacturing, processing, packing, or holding one or more alcoholic beverages.</P>
+<P>(2) Subparts C and G of this part do not apply with respect to food that is not an alcoholic beverage at a facility described in paragraph (i)(1) of this section, provided such food:</P>
+<P>(i) Is in prepackaged form that prevents any direct human contact with such food; and</P>
+<P>(ii) Constitutes not more than 5 percent of the overall sales of the facility, as determined by the Secretary of the Treasury.</P>
+<P>(j) Subparts C and G of this part do not apply to facilities that are solely engaged in the storage of raw agricultural commodities (other than fruits and vegetables) intended for further distribution or processing.</P>
+<P>(k)(1) Except as provided by paragraph (k)(2) of this section, subpart B of this part does not apply to any of the following:</P>
+<P>(i) &#x201C;Farms&#x201D; (as defined in &#xA7; 1.227 of this chapter);</P>
+<P>(ii) Fishing vessels that are not subject to the registration requirements of part 1, subpart H of this chapter in accordance with &#xA7; 1.226(f) of this chapter;</P>
+<P>(iii) Establishments solely engaged in the holding and/or transportation of one or more raw agricultural commodities;</P>
+<P>(iv) Activities of &#x201C;farm mixed-type facilities&#x201D; (as defined in &#xA7; 1.227 of this chapter) that fall within the definition of &#x201C;farm&#x201D;; or</P>
+<P>(v) Establishments solely engaged in hulling, shelling, drying, packing, and/or holding nuts (without additional manufacturing/processing, such as roasting nuts).</P>
+<P>(2) If a &#x201C;farm&#x201D; or &#x201C;farm mixed-type facility&#x201D; dries/dehydrates raw agricultural commodities that are produce as defined in part 112 of this chapter to create a distinct commodity, subpart B of this part applies to the packaging, packing, and holding of the dried commodities. Compliance with this requirement may be achieved by complying with subpart B of this part or with the applicable requirements for packing and holding in part 112 of this chapter.</P>
+<CITA TYPE="N">[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2016]
+</CITA>
+</DIV8>
+
+<DIV8 N="117.7" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.7&quot;,&quot;citation&quot;:&quot;21 CFR 117.7&quot;}">
+<HEAD>&#xA7; 117.7 Applicability of subparts C, D, and G of this part to a facility solely engaged in the storage of unexposed packaged food.</HEAD>
+<P>(a) <I>Applicability of subparts C and G.</I> Subparts C and G of this part do not apply to a facility solely engaged in the storage of unexposed packaged food.</P>
+<P>(b) <I>Applicability of subpart D.</I> A facility solely engaged in the storage of unexposed packaged food, including unexposed packaged food that requires time/temperature control to significantly minimize or prevent the growth of, or toxin production by, pathogens is subject to the modified requirements in &#xA7; 117.206 for any unexposed packaged food that requires time/temperature control to significantly minimize or prevent the growth of, or toxin production by, pathogens.</P>
+</DIV8>
+
+<DIV8 N="117.8" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.8&quot;,&quot;citation&quot;:&quot;21 CFR 117.8&quot;}">
+<HEAD>&#xA7; 117.8 Applicability of subpart B of this part to the off-farm packing and holding of raw agricultural commodities.</HEAD>
+<P>Except as provided by &#xA7; 117.5(k)(1), subpart B of this part applies to the off-farm packaging, packing, and holding of raw agricultural commodities. Compliance with this requirement for raw agricultural commodities that are produce as defined in part 112 of this chapter may be achieved by complying with subpart B of this part or with the applicable requirements for packing and holding in part 112 of this chapter.</P>
+<CITA TYPE="N">[81 FR 3956, Jan. 25, 2016]
+</CITA>
+</DIV8>
+
+<DIV8 N="117.9" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.9&quot;,&quot;citation&quot;:&quot;21 CFR 117.9&quot;}">
+<HEAD>&#xA7; 117.9 Records required for this subpart.</HEAD>
+<P>(a) Records that document training required by &#xA7; 117.4(b)(2) must be established and maintained.</P>
+<P>(b) The records that must be established and maintained are subject to the requirements of subpart F of this part.</P>
+</DIV8>
+
+</DIV6>
+<DIV6 N="B" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-21/part-117/subpart-B&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;21 CFR Part 117 Subpart B&amp;quot;}">
+<HEAD>Subpart B - Current Good Manufacturing Practice</HEAD>
+<DIV8 N="117.10" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.10&quot;,&quot;citation&quot;:&quot;21 CFR 117.10&quot;}">
+<HEAD>&#xA7; 117.10 Personnel.</HEAD>
+<P>The management of the establishment must take reasonable measures and precautions to ensure the following:</P>
+<P>(a) <I>Disease control.</I> Any person who, by medical examination or supervisory observation, is shown to have, or appears to have, an illness, open lesion, including boils, sores, or infected wounds, or any other abnormal source of microbial contamination by which there is a reasonable possibility of food, food-contact surfaces, or food-packaging materials becoming contaminated, must be excluded from any operations which may be expected to result in such contamination until the condition is corrected, unless conditions such as open lesions, boils, and infected wounds are adequately covered (<I>e.g.,</I> by an impermeable cover). Personnel must be instructed to report such health conditions to their supervisors.</P>
+<P>(b) <I>Cleanliness.</I> All persons working in direct contact with food, food-contact surfaces, and food-packaging materials must conform to hygienic practices while on duty to the extent necessary to protect against allergen cross-contact and against contamination of food. The methods for maintaining cleanliness include:</P>
+<P>(1) Wearing outer garments suitable to the operation in a manner that protects against allergen cross-contact and against the contamination of food, food-contact surfaces, or food-packaging materials.</P>
+<P>(2) Maintaining adequate personal cleanliness.</P>
+<P>(3) Washing hands thoroughly (and sanitizing if necessary to protect against contamination with undesirable microorganisms) in an adequate hand-washing facility before starting work, after each absence from the work station, and at any other time when the hands may have become soiled or contaminated.</P>
+<P>(4) Removing all unsecured jewelry and other objects that might fall into food, equipment, or containers, and removing hand jewelry that cannot be adequately sanitized during periods in which food is manipulated by hand. If such hand jewelry cannot be removed, it may be covered by material which can be maintained in an intact, clean, and sanitary condition and which effectively protects against the contamination by these objects of the food, food-contact surfaces, or food-packaging materials.</P>
+<P>(5) Maintaining gloves, if they are used in food handling, in an intact, clean, and sanitary condition.</P>
+<P>(6) Wearing, where appropriate, in an effective manner, hair nets, headbands, caps, beard covers, or other effective hair restraints.</P>
+<P>(7) Storing clothing or other personal belongings in areas other than where food is exposed or where equipment or utensils are washed.</P>
+<P>(8) Confining the following to areas other than where food may be exposed or where equipment or utensils are washed: eating food, chewing gum, drinking beverages, or using tobacco.</P>
+<P>(9) Taking any other necessary precautions to protect against allergen cross-contact and against contamination of food, food-contact surfaces, or food-packaging materials with microorganisms or foreign substances (including perspiration, hair, cosmetics, tobacco, chemicals, and medicines applied to the skin).</P>
+</DIV8>
+
+<DIV8 N="117.20" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.20&quot;,&quot;citation&quot;:&quot;21 CFR 117.20&quot;}">
+<HEAD>&#xA7; 117.20 Plant and grounds.</HEAD>
+<P>(a) <I>Grounds.</I> The grounds about a food plant under the control of the operator must be kept in a condition that will protect against the contamination of food. The methods for adequate maintenance of grounds must include:</P>
+<P>(1) Properly storing equipment, removing litter and waste, and cutting weeds or grass within the immediate vicinity of the plant that may constitute an attractant, breeding place, or harborage for pests.</P>
+<P>(2) Maintaining roads, yards, and parking lots so that they do not constitute a source of contamination in areas where food is exposed.</P>
+<P>(3) Adequately draining areas that may contribute contamination to food by seepage, foot-borne filth, or providing a breeding place for pests.</P>
+<P>(4) Operating systems for waste treatment and disposal in an adequate manner so that they do not constitute a source of contamination in areas where food is exposed.</P>
+<P>(5) If the plant grounds are bordered by grounds not under the operator's control and not maintained in the manner described in paragraphs (a)(1) through (4) of this section, care must be exercised in the plant by inspection, extermination, or other means to exclude pests, dirt, and filth that may be a source of food contamination.</P>
+<P>(b) <I>Plant construction and design.</I> The plant must be suitable in size, construction, and design to facilitate maintenance and sanitary operations for food-production purposes (<I>i.e.,</I> manufacturing, processing, packing, and holding). The plant must:</P>
+<P>(1) Provide adequate space for such placement of equipment and storage of materials as is necessary for maintenance, sanitary operations, and the production of safe food.</P>
+<P>(2) Permit the taking of adequate precautions to reduce the potential for allergen cross-contact and for contamination of food, food-contact surfaces, or food-packaging materials with microorganisms, chemicals, filth, and other extraneous material. The potential for allergen cross-contact and for contamination may be reduced by adequate food safety controls and operating practices or effective design, including the separation of operations in which allergen cross-contact and contamination are likely to occur, by one or more of the following means: location, time, partition, air flow systems, dust control systems, enclosed systems, or other effective means.</P>
+<P>(3) Permit the taking of adequate precautions to protect food in installed outdoor bulk vessels by any effective means, including:</P>
+<P>(i) Using protective coverings.</P>
+<P>(ii) Controlling areas over and around the vessels to eliminate harborages for pests.</P>
+<P>(iii) Checking on a regular basis for pests and pest infestation.</P>
+<P>(iv) Skimming fermentation vessels, as necessary.</P>
+<P>(4) Be constructed in such a manner that floors, walls, and ceilings may be adequately cleaned and kept clean and kept in good repair; that drip or condensate from fixtures, ducts and pipes does not contaminate food, food-contact surfaces, or food-packaging materials; and that aisles or working spaces are provided between equipment and walls and are adequately unobstructed and of adequate width to permit employees to perform their duties and to protect against contaminating food, food-contact surfaces, or food-packaging materials with clothing or personal contact.</P>
+<P>(5) Provide adequate lighting in hand-washing areas, dressing and locker rooms, and toilet rooms and in all areas where food is examined, manufactured, processed, packed, or held and where equipment or utensils are cleaned; and provide shatter-resistant light bulbs, fixtures, skylights, or other glass suspended over exposed food in any step of preparation or otherwise protect against food contamination in case of glass breakage.</P>
+<P>(6) Provide adequate ventilation or control equipment to minimize dust, odors and vapors (including steam and noxious fumes) in areas where they may cause allergen cross-contact or contaminate food; and locate and operate fans and other air-blowing equipment in a manner that minimizes the potential for allergen cross-contact and for contaminating food, food-packaging materials, and food-contact surfaces.</P>
+<P>(7) Provide, where necessary, adequate screening or other protection against pests.</P>
+</DIV8>
+
+<DIV8 N="117.35" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.35&quot;,&quot;citation&quot;:&quot;21 CFR 117.35&quot;}">
+<HEAD>&#xA7; 117.35 Sanitary operations.</HEAD>
+<P>(a) <I>General maintenance.</I> Buildings, fixtures, and other physical facilities of the plant must be maintained in a clean and sanitary condition and must be kept in repair adequate to prevent food from becoming adulterated. Cleaning and sanitizing of utensils and equipment must be conducted in a manner that protects against allergen cross-contact and against contamination of food, food-contact surfaces, or food-packaging materials.</P>
+<P>(b) <I>Substances used in cleaning and sanitizing; storage of toxic materials.</I> (1) Cleaning compounds and sanitizing agents used in cleaning and sanitizing procedures must be free from undesirable microorganisms and must be safe and adequate under the conditions of use. Compliance with this requirement must be verified by any effective means, including purchase of these substances under a letter of guarantee or certification or examination of these substances for contamination. Only the following toxic materials may be used or stored in a plant where food is processed or exposed:</P>
+<P>(i) Those required to maintain clean and sanitary conditions;</P>
+<P>(ii) Those necessary for use in laboratory testing procedures;</P>
+<P>(iii) Those necessary for plant and equipment maintenance and operation; and</P>
+<P>(iv) Those necessary for use in the plant's operations.</P>
+<P>(2) Toxic cleaning compounds, sanitizing agents, and pesticide chemicals must be identified, held, and stored in a manner that protects against contamination of food, food-contact surfaces, or food-packaging materials.</P>
+<P>(c) <I>Pest control.</I> Pests must not be allowed in any area of a food plant. Guard, guide, or pest-detecting dogs may be allowed in some areas of a plant if the presence of the dogs is unlikely to result in contamination of food, food-contact surfaces, or food-packaging materials. Effective measures must be taken to exclude pests from the manufacturing, processing, packing, and holding areas and to protect against the contamination of food on the premises by pests. The use of pesticides to control pests in the plant is permitted only under precautions and restrictions that will protect against the contamination of food, food-contact surfaces, and food-packaging materials.</P>
+<P>(d) <I>Sanitation of food-contact surfaces.</I> All food-contact surfaces, including utensils and food-contact surfaces of equipment, must be cleaned as frequently as necessary to protect against allergen cross-contact and against contamination of food.</P>
+<P>(1) Food-contact surfaces used for manufacturing/processing, packing, or holding low-moisture food must be in a clean, dry, sanitary condition before use. When the surfaces are wet-cleaned, they must, when necessary, be sanitized and thoroughly dried before subsequent use.</P>
+<P>(2) In wet processing, when cleaning is necessary to protect against allergen cross-contact or the introduction of microorganisms into food, all food-contact surfaces must be cleaned and sanitized before use and after any interruption during which the food-contact surfaces may have become contaminated. Where equipment and utensils are used in a continuous production operation, the utensils and food-contact surfaces of the equipment must be cleaned and sanitized as necessary.</P>
+<P>(3) Single-service articles (such as utensils intended for one-time use, paper cups, and paper towels) must be stored, handled, and disposed of in a manner that protects against allergen cross-contact and against contamination of food, food-contact surfaces, or food-packaging materials.</P>
+<P>(e) <I>Sanitation of non-food-contact surfaces.</I> Non-food-contact surfaces of equipment used in the operation of a food plant must be cleaned in a manner and as frequently as necessary to protect against allergen cross-contact and against contamination of food, food-contact surfaces, and food-packaging materials.</P>
+<P>(f) <I>Storage and handling of cleaned portable equipment and utensils.</I> Cleaned and sanitized portable equipment with food-contact surfaces and utensils must be stored in a location and manner that protects food-contact surfaces from allergen cross-contact and from contamination.</P>
+</DIV8>
+
+<DIV8 N="117.37" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.37&quot;,&quot;citation&quot;:&quot;21 CFR 117.37&quot;}">
+<HEAD>&#xA7; 117.37 Sanitary facilities and controls.</HEAD>
+<P>Each plant must be equipped with adequate sanitary facilities and accommodations including:</P>
+<P>(a) <I>Water supply.</I> The water supply must be adequate for the operations intended and must be derived from an adequate source. Any water that contacts food, food-contact surfaces, or food-packaging materials must be safe and of adequate sanitary quality. Running water at a suitable temperature, and under pressure as needed, must be provided in all areas where required for the processing of food, for the cleaning of equipment, utensils, and food-packaging materials, or for employee sanitary facilities.</P>
+<P>(b) <I>Plumbing.</I> Plumbing must be of adequate size and design and adequately installed and maintained to:</P>
+<P>(1) Carry adequate quantities of water to required locations throughout the plant.</P>
+<P>(2) Properly convey sewage and liquid disposable waste from the plant.</P>
+<P>(3) Avoid constituting a source of contamination to food, water supplies, equipment, or utensils or creating an unsanitary condition.</P>
+<P>(4) Provide adequate floor drainage in all areas where floors are subject to flooding-type cleaning or where normal operations release or discharge water or other liquid waste on the floor.</P>
+<P>(5) Provide that there is not backflow from, or cross-connection between, piping systems that discharge waste water or sewage and piping systems that carry water for food or food manufacturing.</P>
+<P>(c) <I>Sewage disposal.</I> Sewage must be disposed of into an adequate sewerage system or disposed of through other adequate means.</P>
+<P>(d) <I>Toilet facilities.</I> Each plant must provide employees with adequate, readily accessible toilet facilities. Toilet facilities must be kept clean and must not be a potential source of contamination of food, food-contact surfaces, or food-packaging materials.</P>
+<P>(e) <I>Hand-washing facilities.</I> Each plant must provide hand-washing facilities designed to ensure that an employee's hands are not a source of contamination of food, food-contact surfaces, or food-packaging materials, by providing facilities that are adequate, convenient, and furnish running water at a suitable temperature.</P>
+<P>(f) <I>Rubbish and offal disposal.</I> Rubbish and any offal must be so conveyed, stored, and disposed of as to minimize the development of odor, minimize the potential for the waste becoming an attractant and harborage or breeding place for pests, and protect against contamination of food, food-contact surfaces, food-packaging materials, water supplies, and ground surfaces.</P>
+</DIV8>
+
+<DIV8 N="117.40" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.40&quot;,&quot;citation&quot;:&quot;21 CFR 117.40&quot;}">
+<HEAD>&#xA7; 117.40 Equipment and utensils.</HEAD>
+<P>(a)(1) All plant equipment and utensils used in manufacturing, processing, packing, or holding food must be so designed and of such material and workmanship as to be adequately cleanable, and must be adequately maintained to protect against allergen cross-contact and contamination.</P>
+<P>(2) Equipment and utensils must be designed, constructed, and used appropriately to avoid the adulteration of food with lubricants, fuel, metal fragments, contaminated water, or any other contaminants.</P>
+<P>(3) Equipment must be installed so as to facilitate the cleaning and maintenance of the equipment and of adjacent spaces.</P>
+<P>(4) Food-contact surfaces must be corrosion-resistant when in contact with food.</P>
+<P>(5) Food-contact surfaces must be made of nontoxic materials and designed to withstand the environment of their intended use and the action of food, and, if applicable, cleaning compounds, sanitizing agents, and cleaning procedures.</P>
+<P>(6) Food-contact surfaces must be maintained to protect food from allergen cross-contact and from being contaminated by any source, including unlawful indirect food additives.</P>
+<P>(b) Seams on food-contact surfaces must be smoothly bonded or maintained so as to minimize accumulation of food particles, dirt, and organic matter and thus minimize the opportunity for growth of microorganisms and allergen cross-contact.</P>
+<P>(c) Equipment that is in areas where food is manufactured, processed, packed, or held and that does not come into contact with food must be so constructed that it can be kept in a clean and sanitary condition.</P>
+<P>(d) Holding, conveying, and manufacturing systems, including gravimetric, pneumatic, closed, and automated systems, must be of a design and construction that enables them to be maintained in an appropriate clean and sanitary condition.</P>
+<P>(e) Each freezer and cold storage compartment used to store and hold food capable of supporting growth of microorganisms must be fitted with an indicating thermometer, temperature-measuring device, or temperature-recording device so installed as to show the temperature accurately within the compartment.</P>
+<P>(f) Instruments and controls used for measuring, regulating, or recording temperatures, pH, acidity, water activity, or other conditions that control or prevent the growth of undesirable microorganisms in food must be accurate and precise and adequately maintained, and adequate in number for their designated uses.</P>
+<P>(g) Compressed air or other gases mechanically introduced into food or used to clean food-contact surfaces or equipment must be treated in such a way that food is not contaminated with unlawful indirect food additives.</P>
+</DIV8>
+
+<DIV8 N="117.80" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.80&quot;,&quot;citation&quot;:&quot;21 CFR 117.80&quot;}">
+<HEAD>&#xA7; 117.80 Processes and controls.</HEAD>
+<P>(a) <I>General.</I> (1) All operations in the manufacturing, processing, packing, and holding of food (including operations directed to receiving, inspecting, transporting, and segregating) must be conducted in accordance with adequate sanitation principles.</P>
+<P>(2) Appropriate quality control operations must be employed to ensure that food is suitable for human consumption and that food-packaging materials are safe and suitable.</P>
+<P>(3) Overall sanitation of the plant must be under the supervision of one or more competent individuals assigned responsibility for this function.</P>
+<P>(4) Adequate precautions must be taken to ensure that production procedures do not contribute to allergen cross-contact and to contamination from any source.</P>
+<P>(5) Chemical, microbial, or extraneous-material testing procedures must be used where necessary to identify sanitation failures or possible allergen cross-contact and food contamination.</P>
+<P>(6) All food that has become contaminated to the extent that it is adulterated must be rejected, or if appropriate, treated or processed to eliminate the contamination.</P>
+<P>(b) <I>Raw materials and other ingredients.</I> (1) Raw materials and other ingredients must be inspected and segregated or otherwise handled as necessary to ascertain that they are clean and suitable for processing into food and must be stored under conditions that will protect against allergen cross-contact and against contamination and minimize deterioration. Raw materials must be washed or cleaned as necessary to remove soil or other contamination. Water used for washing, rinsing, or conveying food must be safe and of adequate sanitary quality. Water may be reused for washing, rinsing, or conveying food if it does not cause allergen cross-contact or increase the level of contamination of the food.</P>
+<P>(2) Raw materials and other ingredients must either not contain levels of microorganisms that may render the food injurious to the health of humans, or they must be pasteurized or otherwise treated during manufacturing operations so that they no longer contain levels that would cause the product to be adulterated.</P>
+<P>(3) Raw materials and other ingredients susceptible to contamination with aflatoxin or other natural toxins must comply with FDA regulations for poisonous or deleterious substances before these raw materials or other ingredients are incorporated into finished food.</P>
+<P>(4) Raw materials, other ingredients, and rework susceptible to contamination with pests, undesirable microorganisms, or extraneous material must comply with applicable FDA regulations for natural or unavoidable defects if a manufacturer wishes to use the materials in manufacturing food.</P>
+<P>(5) Raw materials, other ingredients, and rework must be held in bulk, or in containers designed and constructed so as to protect against allergen cross-contact and against contamination and must be held at such temperature and relative humidity and in such a manner as to prevent the food from becoming adulterated. Material scheduled for rework must be identified as such.</P>
+<P>(6) Frozen raw materials and other ingredients must be kept frozen. If thawing is required prior to use, it must be done in a manner that prevents the raw materials and other ingredients from becoming adulterated.</P>
+<P>(7) Liquid or dry raw materials and other ingredients received and stored in bulk form must be held in a manner that protects against allergen cross-contact and against contamination.</P>
+<P>(8) Raw materials and other ingredients that are food allergens, and rework that contains food allergens, must be identified and held in a manner that prevents allergen cross-contact.</P>
+<P>(c) <I>Manufacturing operations.</I> (1) Equipment and utensils and food containers must be maintained in an adequate condition through appropriate cleaning and sanitizing, as necessary. Insofar as necessary, equipment must be taken apart for thorough cleaning.</P>
+<P>(2) All food manufacturing, processing, packing, and holding must be conducted under such conditions and controls as are necessary to minimize the potential for the growth of microorganisms, allergen cross-contact, contamination of food, and deterioration of food.</P>
+<P>(3) Food that can support the rapid growth of undesirable microorganisms must be held at temperatures that will prevent the food from becoming adulterated during manufacturing, processing, packing, and holding.</P>
+<P>(4) Measures such as sterilizing, irradiating, pasteurizing, cooking, freezing, refrigerating, controlling pH, or controlling a<E T="52">w</E> that are taken to destroy or prevent the growth of undesirable microorganisms must be adequate under the conditions of manufacture, handling, and distribution to prevent food from being adulterated.</P>
+<P>(5) Work-in-process and rework must be handled in a manner that protects against allergen cross-contact, contamination, and growth of undesirable microorganisms.</P>
+<P>(6) Effective measures must be taken to protect finished food from allergen cross-contact and from contamination by raw materials, other ingredients, or refuse. When raw materials, other ingredients, or refuse are unprotected, they must not be handled simultaneously in a receiving, loading, or shipping area if that handling could result in allergen cross-contact or contaminated food. Food transported by conveyor must be protected against allergen cross-contact and against contamination as necessary.</P>
+<P>(7) Equipment, containers, and utensils used to convey, hold, or store raw materials and other ingredients, work-in-process, rework, or other food must be constructed, handled, and maintained during manufacturing, processing, packing, and holding in a manner that protects against allergen cross-contact and against contamination.</P>
+<P>(8) Adequate measures must be taken to protect against the inclusion of metal or other extraneous material in food.</P>
+<P>(9) Food, raw materials, and other ingredients that are adulterated:</P>
+<P>(i) Must be disposed of in a manner that protects against the contamination of other food; or</P>
+<P>(ii) If the adulterated food is capable of being reconditioned, it must be:</P>
+<P>(A) Reconditioned (if appropriate) using a method that has been proven to be effective; or</P>
+<P>(B) Reconditioned (if appropriate) and reexamined and subsequently found not to be adulterated within the meaning of the Federal Food, Drug, and Cosmetic Act before being incorporated into other food.</P>
+<P>(10) Steps such as washing, peeling, trimming, cutting, sorting and inspecting, mashing, dewatering, cooling, shredding, extruding, drying, whipping, defatting, and forming must be performed so as to protect food against allergen cross-contact and against contamination. Food must be protected from contaminants that may drip, drain, or be drawn into the food.</P>
+<P>(11) Heat blanching, when required in the preparation of food capable of supporting microbial growth, must be effected by heating the food to the required temperature, holding it at this temperature for the required time, and then either rapidly cooling the food or passing it to subsequent manufacturing without delay. Growth and contamination by thermophilic microorganisms in blanchers must be minimized by the use of adequate operating temperatures and by periodic cleaning and sanitizing as necessary.</P>
+<P>(12) Batters, breading, sauces, gravies, dressings, dipping solutions, and other similar preparations that are held and used repeatedly over time must be treated or maintained in such a manner that they are protected against allergen cross-contact and against contamination, and minimizing the potential for the growth of undesirable microorganisms.</P>
+<P>(13) Filling, assembling, packaging, and other operations must be performed in such a way that the food is protected against allergen cross-contact, contamination and growth of undesirable microorganisms.</P>
+<P>(14) Food, such as dry mixes, nuts, intermediate moisture food, and dehydrated food, that relies principally on the control of a<E T="52">w</E> for preventing the growth of undesirable microorganisms must be processed to and maintained at a safe moisture level.</P>
+<P>(15) Food, such as acid and acidified food, that relies principally on the control of pH for preventing the growth of undesirable microorganisms must be monitored and maintained at a pH of 4.6 or below.</P>
+<P>(16) When ice is used in contact with food, it must be made from water that is safe and of adequate sanitary quality in accordance with &#xA7; 117.37(a), and must be used only if it has been manufactured in accordance with current good manufacturing practice as outlined in this part.</P>
+</DIV8>
+
+<DIV8 N="117.93" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.93&quot;,&quot;citation&quot;:&quot;21 CFR 117.93&quot;}">
+<HEAD>&#xA7; 117.93 Warehousing and distribution.</HEAD>
+<P>Storage and transportation of food must be under conditions that will protect against allergen cross-contact and against biological, chemical (including radiological), and physical contamination of food, as well as against deterioration of the food and the container.</P>
+</DIV8>
+
+<DIV8 N="117.95" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.95&quot;,&quot;citation&quot;:&quot;21 CFR 117.95&quot;}">
+<HEAD>&#xA7; 117.95 Holding and distribution of human food by-products for use as animal food.</HEAD>
+<P>(a) Human food by-products held for distribution as animal food without additional manufacturing or processing by the human food processor, as identified in &#xA7; 507.12 of this chapter, must be held under conditions that will protect against contamination, including the following:</P>
+<P>(1) Containers and equipment used to convey or hold human food by-products for use as animal food before distribution must be designed, constructed of appropriate material, cleaned as necessary, and maintained to protect against the contamination of human food by-products for use as animal food;</P>
+<P>(2) Human food by-products for use as animal food held for distribution must be held in a way to protect against contamination from sources such as trash; and</P>
+<P>(3) During holding, human food by-products for use as animal food must be accurately identified.</P>
+<P>(b) Labeling that identifies the by-product by the common or usual name must be affixed to or accompany human food by-products for use as animal food when distributed.</P>
+<P>(c) Shipping containers (<I>e.g.,</I> totes, drums, and tubs) and bulk vehicles used to distribute human food by-products for use as animal food must be examined prior to use to protect against contamination of the human food by-products for use as animal food from the container or vehicle when the facility is responsible for transporting the human food by-products for use as animal food itself or arranges with a third party to transport the human food by-products for use as animal food.</P>
+<CITA TYPE="N">[80 FR 56337, Sept. 17, 2015]
+</CITA>
+</DIV8>
+
+<DIV8 N="117.110" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.110&quot;,&quot;citation&quot;:&quot;21 CFR 117.110&quot;}">
+<HEAD>&#xA7; 117.110 Defect action levels.</HEAD>
+<P>(a) The manufacturer, processor, packer, and holder of food must at all times utilize quality control operations that reduce natural or unavoidable defects to the lowest level currently feasible.</P>
+<P>(b) The mixing of a food containing defects at levels that render that food adulterated with another lot of food is not permitted and renders the final food adulterated, regardless of the defect level of the final food. For examples of defect action levels that may render food adulterated, see the Defect Levels Handbook, which is accessible at<I>http://www.fda.gov/pchfrule</I> and at<I>http://www.fda.gov</I>.</P>
+</DIV8>
+
+</DIV6>
+<DIV6 N="C" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-21/part-117/subpart-C&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;21 CFR Part 117 Subpart C&amp;quot;}">
+<HEAD>Subpart C - Hazard Analysis and Risk-Based Preventive Controls</HEAD>
+<DIV8 N="117.126" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.126&quot;,&quot;citation&quot;:&quot;21 CFR 117.126&quot;}">
+<HEAD>&#xA7; 117.126 Food safety plan.</HEAD>
+<P>(a) <I>Requirement for a food safety plan.</I> (1) You must prepare, or have prepared, and implement a written food safety plan.</P>
+<P>(2) The food safety plan must be prepared, or its preparation overseen, by one or more preventive controls qualified individuals.</P>
+<P>(b) <I>Contents of a food safety plan.</I> The written food safety plan must include:</P>
+<P>(1) The written hazard analysis as required by &#xA7; 117.130(a)(2);</P>
+<P>(2) The written preventive controls as required by &#xA7; 117.135(b);</P>
+<P>(3) The written supply-chain program as required by subpart G of this part;</P>
+<P>(4) The written recall plan as required by &#xA7; 117.139(a); and</P>
+<P>(5) The written procedures for monitoring the implementation of the preventive controls as required by &#xA7; 117.145(a);</P>
+<P>(6) The written corrective action procedures as required by &#xA7; 117.150(a)(1); and</P>
+<P>(7) The written verification procedures as required by &#xA7; 117.165(b).</P>
+<P>(c) <I>Records.</I> The food safety plan required by this section is a record that is subject to the requirements of subpart F of this part.</P>
+<CITA TYPE="N">[80 FR 56145, Sept. 17, 2015, as amended at 84 FR 12491, Apr. 2, 2019]
+</CITA>
+</DIV8>
+
+<DIV8 N="117.130" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.130&quot;,&quot;citation&quot;:&quot;21 CFR 117.130&quot;}">
+<HEAD>&#xA7; 117.130 Hazard analysis.</HEAD>
+<P>(a) <I>Requirement for a hazard analysis.</I> (1) You must conduct a hazard analysis to identify and evaluate, based on experience, illness data, scientific reports, and other information, known or reasonably foreseeable hazards for each type of food manufactured, processed, packed, or held at your facility to determine whether there are any hazards requiring a preventive control.</P>
+<P>(2) The hazard analysis must be written regardless of its outcome.</P>
+<P>(b) <I>Hazard identification.</I> The hazard identification must consider:</P>
+<P>(1) Known or reasonably foreseeable hazards that include:</P>
+<P>(i) Biological hazards, including microbiological hazards such as parasites, environmental pathogens, and other pathogens;</P>
+<P>(ii) Chemical hazards, including radiological hazards, substances such as pesticide and drug residues, natural toxins, decomposition, unapproved food or color additives, and food allergens; and</P>
+<P>(iii) Physical hazards (such as stones, glass, and metal fragments); and</P>
+<P>(2) Known or reasonably foreseeable hazards that may be present in the food for any of the following reasons:</P>
+<P>(i) The hazard occurs naturally;</P>
+<P>(ii) The hazard may be unintentionally introduced; or</P>
+<P>(iii) The hazard may be intentionally introduced for purposes of economic gain.</P>
+<P>(c) <I>Hazard evaluation.</I> (1)(i) The hazard analysis must include an evaluation of the hazards identified in paragraph (b) of this section to assess the severity of the illness or injury if the hazard were to occur and the probability that the hazard will occur in the absence of preventive controls.</P>
+<P>(ii) The hazard evaluation required by paragraph (c)(1)(i) of this section must include an evaluation of environmental pathogens whenever a ready-to-eat food is exposed to the environment prior to packaging and the packaged food does not receive a treatment or otherwise include a control measure (such as a formulation lethal to the pathogen) that would significantly minimize the pathogen.</P>
+<P>(2) The hazard evaluation must consider the effect of the following on the safety of the finished food for the intended consumer:</P>
+<P>(i) The formulation of the food;</P>
+<P>(ii) The condition, function, and design of the facility and equipment;</P>
+<P>(iii) Raw materials and other ingredients;</P>
+<P>(iv) Transportation practices;</P>
+<P>(v) Manufacturing/processing procedures;</P>
+<P>(vi) Packaging activities and labeling activities;</P>
+<P>(vii) Storage and distribution;</P>
+<P>(viii) Intended or reasonably foreseeable use;</P>
+<P>(ix) Sanitation, including employee hygiene; and</P>
+<P>(x) Any other relevant factors, such as the temporal (<I>e.g.,</I> weather-related) nature of some hazards (<I>e.g.,</I> levels of some natural toxins).</P>
+</DIV8>
+
+<DIV8 N="117.135" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.135&quot;,&quot;citation&quot;:&quot;21 CFR 117.135&quot;}">
+<HEAD>&#xA7; 117.135 Preventive controls.</HEAD>
+<P>(a)(1) You must identify and implement preventive controls to provide assurances that any hazards requiring a preventive control will be significantly minimized or prevented and the food manufactured, processed, packed, or held by your facility will not be adulterated under section 402 of the Federal Food, Drug, and Cosmetic Act or misbranded under section 403(w) of the Federal Food, Drug, and Cosmetic Act.</P>
+<P>(2) Preventive controls required by paragraph (a)(1) of this section include:</P>
+<P>(i) Controls at critical control points (CCPs), if there are any CCPs; and</P>
+<P>(ii) Controls, other than those at CCPs, that are also appropriate for food safety.</P>
+<P>(b) Preventive controls must be written.</P>
+<P>(c) Preventive controls include, as appropriate to the facility and the food:</P>
+<P>(1) <I>Process controls.</I> Process controls include procedures, practices, and processes to ensure the control of parameters during operations such as heat processing, acidifying, irradiating, and refrigerating foods. Process controls must include, as appropriate to the nature of the applicable control and its role in the facility's food safety system:</P>
+<P>(i) Parameters associated with the control of the hazard; and</P>
+<P>(ii) The maximum or minimum value, or combination of values, to which any biological, chemical, or physical parameter must be controlled to significantly minimize or prevent a hazard requiring a process control.</P>
+<P>(2) <I>Food allergen controls.</I> Food allergen controls include procedures, practices, and processes to control food allergens. Food allergen controls must include those procedures, practices, and processes employed for:</P>
+<P>(i) Ensuring protection of food from allergen cross-contact, including during storage, handling, and use; and</P>
+<P>(ii) Labeling the finished food, including ensuring that the finished food is not misbranded under section 403(w) of the Federal Food, Drug, and Cosmetic Act.</P>
+<P>(3) <I>Sanitation controls.</I> Sanitation controls include procedures, practices, and processes to ensure that the facility is maintained in a sanitary condition adequate to significantly minimize or prevent hazards such as environmental pathogens, biological hazards due to employee handling, and food allergen hazards. Sanitation controls must include, as appropriate to the facility and the food, procedures, practices, and processes for the:</P>
+<P>(i) Cleanliness of food-contact surfaces, including food-contact surfaces of utensils and equipment;</P>
+<P>(ii) Prevention of allergen cross-contact and cross-contamination from insanitary objects and from personnel to food, food packaging material, and other food-contact surfaces and from raw product to processed product.</P>
+<P>(4) <I>Supply-chain controls.</I> Supply-chain controls include the supply-chain program as required by subpart G of this part.</P>
+<P>(5) <I>Recall plan.</I> Recall plan as required by &#xA7; 117.139.</P>
+<P>(6) <I>Other controls.</I> Preventive controls include any other procedures, practices, and processes necessary to satisfy the requirements of paragraph (a) of this section. Examples of other controls include hygiene training and other current good manufacturing practices.</P>
+</DIV8>
+
+<DIV8 N="117.136" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.136&quot;,&quot;citation&quot;:&quot;21 CFR 117.136&quot;}">
+<HEAD>&#xA7; 117.136 Circumstances in which the owner, operator, or agent in charge of a manufacturing/processing facility is not required to implement a preventive control.</HEAD>
+<P>(a) <I>Circumstances.</I> If you are a manufacturer/processor, you are not required to implement a preventive control when you identify a hazard requiring a preventive control (identified hazard) and any of the following circumstances apply:</P>
+<P>(1) You determine and document that the type of food (<I>e.g.,</I> raw agricultural commodities such as cocoa beans, coffee beans, and grains) could not be consumed without application of an appropriate control.</P>
+<P>(2) You rely on your customer who is subject to the requirements for hazard analysis and risk-based preventive controls in this subpart to ensure that the identified hazard will be significantly minimized or prevented and you:</P>
+<P>(i) Disclose in documents accompanying the food, in accordance with the practice of the trade, that the food is &#x201C;not processed to control [identified hazard]&#x201D;; and</P>
+<P>(ii) Annually obtain from your customer written assurance, subject to the requirements of &#xA7; 117.137, that the customer has established and is following procedures (identified in the written assurance) that will significantly minimize or prevent the identified hazard.</P>
+<P>(3) You rely on your customer who is not subject to the requirements for hazard analysis and risk-based preventive controls in this subpart to provide assurance it is manufacturing, processing, or preparing the food in accordance with applicable food safety requirements and you:</P>
+<P>(i) Disclose in documents accompanying the food, in accordance with the practice of the trade, that the food is &#x201C;not processed to control [identified hazard]&#x201D;; and</P>
+<P>(ii) Annually obtain from your customer written assurance that it is manufacturing, processing, or preparing the food in accordance with applicable food safety requirements.</P>
+<P>(4) You rely on your customer to provide assurance that the food will be processed to control the identified hazard by an entity in the distribution chain subsequent to the customer and you:</P>
+<P>(i) Disclose in documents accompanying the food, in accordance with the practice of the trade, that the food is &#x201C;not processed to control [identified hazard]&#x201D;; and</P>
+<P>(ii) Annually obtain from your customer written assurance, subject to the requirements of &#xA7; 117.137, that your customer:</P>
+<P>(A) Will disclose in documents accompanying the food, in accordance with the practice of the trade, that the food is &#x201C;not processed to control [identified hazard]&#x201D;; and</P>
+<P>(B) Will only sell to another entity that agrees, in writing, it will:</P>
+<P>(<I>1</I>) Follow procedures (identified in a written assurance) that will significantly minimize or prevent the identified hazard (if the entity is subject to the requirements for hazard analysis and risk-based preventive controls in this subpart) or manufacture, process, or prepare the food in accordance with applicable food safety requirements (if the entity is not subject to the requirements for hazard analysis and risk-based preventive controls in this subpart); or</P>
+<P>(<I>2</I>) Obtain a similar written assurance from the entity's customer, subject to the requirements of &#xA7; 117.137, as in paragraphs (a)(4)(ii)(A) and (B) of this section, as appropriate; or</P>
+<P>(5) You have established, documented, and implemented a system that ensures control, at a subsequent distribution step, of the hazards in the food you distribute and you document the implementation of that system.</P>
+<P>(b) <I>Records.</I> You must document any circumstance, specified in paragraph (a) of this section, that applies to you, including:</P>
+<P>(1) A determination, in accordance with paragraph (a) of this section, that the type of food could not be consumed without application of an appropriate control;</P>
+<P>(2) The annual written assurance from your customer in accordance with paragraph (a)(2) of this section;</P>
+<P>(3) The annual written assurance from your customer in accordance with paragraph (a)(3) of this section;</P>
+<P>(4) The annual written assurance from your customer in accordance with paragraph (a)(4) of this section; and</P>
+<P>(5) Your system, in accordance with paragraph (a)(5) of this section, that ensures control, at a subsequent distribution step, of the hazards in the food you distribute.</P>
+<CITA TYPE="N">[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2016]
+</CITA>
+</DIV8>
+
+<DIV8 N="117.137" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.137&quot;,&quot;citation&quot;:&quot;21 CFR 117.137&quot;}">
+<HEAD>&#xA7; 117.137 Provision of assurances required under &#xA7; 117.136(a)(2), (3), and (4).</HEAD>
+<P>A facility that provides a written assurance under &#xA7; 117.136(a)(2), (3), or (4) must act consistently with the assurance and document its actions taken to satisfy the written assurance.</P>
+</DIV8>
+
+<DIV8 N="117.139" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.139&quot;,&quot;citation&quot;:&quot;21 CFR 117.139&quot;}">
+<HEAD>&#xA7; 117.139 Recall plan.</HEAD>
+<P>For food with a hazard requiring a preventive control:</P>
+<P>(a) You must establish a written recall plan for the food.</P>
+<P>(b) The written recall plan must include procedures that describe the steps to be taken, and assign responsibility for taking those steps, to perform the following actions as appropriate to the facility:</P>
+<P>(1) Directly notify the direct consignees of the food being recalled, including how to return or dispose of the affected food;</P>
+<P>(2) Notify the public about any hazard presented by the food when appropriate to protect public health;</P>
+<P>(3) Conduct effectiveness checks to verify that the recall is carried out; and</P>
+<P>(4) Appropriately dispose of recalled food&#x2014;<I>e.g.,</I> through reprocessing, reworking, diverting to a use that does not present a safety concern, or destroying the food.</P>
+</DIV8>
+
+<DIV8 N="117.140" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.140&quot;,&quot;citation&quot;:&quot;21 CFR 117.140&quot;}">
+<HEAD>&#xA7; 117.140 Preventive control management components.</HEAD>
+<P>(a) Except as provided by paragraphs (b) and (c) of this section, the preventive controls required under &#xA7; 117.135 are subject to the following preventive control management components as appropriate to ensure the effectiveness of the preventive controls, taking into account the nature of the preventive control and its role in the facility's food safety system:</P>
+<P>(1) Monitoring in accordance with &#xA7; 117.145;</P>
+<P>(2) Corrective actions and corrections in accordance with &#xA7; 117.150; and</P>
+<P>(3) Verification in accordance with &#xA7; 117.155.</P>
+<P>(b) The supply-chain program established in subpart G of this part is subject to the following preventive control management components as appropriate to ensure the effectiveness of the supply-chain program, taking into account the nature of the hazard controlled before receipt of the raw material or other ingredient:</P>
+<P>(1) Corrective actions and corrections in accordance with &#xA7; 117.150, taking into account the nature of any supplier non-conformance;</P>
+<P>(2) Review of records in accordance with &#xA7; 117.165(a)(4); and</P>
+<P>(3) Reanalysis in accordance with &#xA7; 117.170.</P>
+<P>(c) The recall plan established in &#xA7; 117.139 is not subject to the requirements of paragraph (a) of this section.</P>
+</DIV8>
+
+<DIV8 N="117.145" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.145&quot;,&quot;citation&quot;:&quot;21 CFR 117.145&quot;}">
+<HEAD>&#xA7; 117.145 Monitoring.</HEAD>
+<P>As appropriate to the nature of the preventive control and its role in the facility's food safety system:</P>
+<P>(a) <I>Written procedures.</I> You must establish and implement written procedures, including the frequency with which they are to be performed, for monitoring the preventive control; and</P>
+<P>(b) <I>Monitoring.</I> You must monitor the preventive controls with adequate frequency to provide assurance that they are consistently performed.</P>
+<P>(c) <I>Records.</I> (1) <I>Requirement to document monitoring.</I> You must document the monitoring of preventive controls in accordance with this section in records that are subject to verification in accordance with &#xA7; 117.155(a)(2) and records review in accordance with &#xA7; 117.165(a)(4)(i).</P>
+<P>(2) <I>Exception records.</I> (i) Records of refrigeration temperature during storage of food that requires time/temperature control to significantly minimize or prevent the growth of, or toxin production by, pathogens may be affirmative records demonstrating temperature is controlled or exception records demonstrating loss of temperature control.</P>
+<P>(ii) Exception records may be adequate in circumstances other than monitoring of refrigeration temperature.</P>
+<CITA TYPE="N">[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2016]
+</CITA>
+</DIV8>
+
+<DIV8 N="117.150" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.150&quot;,&quot;citation&quot;:&quot;21 CFR 117.150&quot;}">
+<HEAD>&#xA7; 117.150 Corrective actions and corrections.</HEAD>
+<P>(a) <I>Corrective action procedures.</I> As appropriate to the nature of the hazard and the nature of the preventive control, except as provided by paragraph (c) of this section:</P>
+<P>(1) You must establish and implement written corrective action procedures that must be taken if preventive controls are not properly implemented, including procedures to address, as appropriate:</P>
+<P>(i) The presence of a pathogen or appropriate indicator organism in a ready-to-eat product detected as a result of product testing conducted in accordance with &#xA7; 117.165(a)(2); and</P>
+<P>(ii) The presence of an environmental pathogen or appropriate indicator organism detected through the environmental monitoring conducted in accordance with &#xA7; 117.165(a)(3).</P>
+<P>(2) The corrective action procedures must describe the steps to be taken to ensure that:</P>
+<P>(i) Appropriate action is taken to identify and correct a problem that has occurred with implementation of a preventive control;</P>
+<P>(ii) Appropriate action is taken, when necessary, to reduce the likelihood that the problem will recur;</P>
+<P>(iii) All affected food is evaluated for safety; and</P>
+<P>(iv) All affected food is prevented from entering into commerce, if you cannot ensure that the affected food is not adulterated under section 402 of the Federal Food, Drug, and Cosmetic Act or misbranded under section 403(w) of the Federal Food, Drug, and Cosmetic Act.</P>
+<P>(b) <I>Corrective action in the event of an unanticipated food safety problem.</I> (1) Except as provided by paragraph (c) of this section, you are subject to the requirements of paragraphs (b)(2) of this section if any of the following circumstances apply:</P>
+<P>(i) A preventive control is not properly implemented and a corrective action procedure has not been established;</P>
+<P>(ii) A preventive control, combination of preventive controls, or the food safety plan as a whole is found to be ineffective; or</P>
+<P>(iii) A review of records in accordance with &#xA7; 117.165(a)(4) finds that the records are not complete, the activities conducted did not occur in accordance with the food safety plan, or appropriate decisions were not made about corrective actions.</P>
+<P>(2) If any of the circumstances listed in paragraph (b)(1) of this section apply, you must:</P>
+<P>(i) Take corrective action to identify and correct the problem, reduce the likelihood that the problem will recur, evaluate all affected food for safety, and, as necessary, prevent affected food from entering commerce as would be done following a corrective action procedure under paragraphs (a)(2)(i) through (iv) of this section; and</P>
+<P>(ii) When appropriate, reanalyze the food safety plan in accordance with &#xA7; 117.170 to determine whether modification of the food safety plan is required.</P>
+<P>(c) <I>Corrections.</I> You do not need to comply with the requirements of paragraphs (a) and (b) of this section if:</P>
+<P>(1) You take action, in a timely manner, to identify and correct conditions and practices that are not consistent with the food allergen controls in &#xA7; 117.135(c)(2)(i) or the sanitation controls in &#xA7; 117.135(c)(3)(i) or (ii); or</P>
+<P>(2) You take action, in a timely manner, to identify and correct a minor and isolated problem that does not directly impact product safety.</P>
+<P>(d) <I>Records.</I> All corrective actions (and, when appropriate, corrections) taken in accordance with this section must be documented in records. These records are subject to verification in accordance with &#xA7; 117.155(a)(3) and records review in accordance with &#xA7; 117.165(a)(4)(i).</P>
+</DIV8>
+
+<DIV8 N="117.155" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.155&quot;,&quot;citation&quot;:&quot;21 CFR 117.155&quot;}">
+<HEAD>&#xA7; 117.155 Verification.</HEAD>
+<P>(a) <I>Verification activities.</I> Verification activities must include, as appropriate to the nature of the preventive control and its role in the facility's food safety system:</P>
+<P>(1) Validation in accordance with &#xA7; 117.160.</P>
+<P>(2) Verification that monitoring is being conducted as required by &#xA7; 117.140 (and in accordance with &#xA7; 117.145).</P>
+<P>(3) Verification that appropriate decisions about corrective actions are being made as required by &#xA7; 117.140 (and in accordance with &#xA7; 117.150).</P>
+<P>(4) Verification of implementation and effectiveness in accordance with &#xA7; 117.165; and</P>
+<P>(5) Reanalysis in accordance with &#xA7; 117.170.</P>
+<P>(b) <I>Documentation.</I> All verification activities conducted in accordance with this section must be documented in records.</P>
+</DIV8>
+
+<DIV8 N="117.160" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.160&quot;,&quot;citation&quot;:&quot;21 CFR 117.160&quot;}">
+<HEAD>&#xA7; 117.160 Validation.</HEAD>
+<P>(a) You must validate that the preventive controls identified and implemented in accordance with &#xA7; 117.135 are adequate to control the hazard as appropriate to the nature of the preventive control and its role in the facility's food safety system.</P>
+<P>(b) The validation of the preventive controls:</P>
+<P>(1) Must be performed (or overseen) by a preventive controls qualified individual:</P>
+<P>(i)(A) Prior to implementation of the food safety plan; or</P>
+<P>(B) When necessary to demonstrate the control measures can be implemented as designed:</P>
+<P>(<I>1</I>) Within 90 calendar days after production of the applicable food first begins; or</P>
+<P>(<I>2</I>) Within a reasonable timeframe, provided that the preventive controls qualified individual prepares (or oversees the preparation of) a written justification for a timeframe that exceeds 90 calendar days after production of the applicable food first begins;</P>
+<P>(ii) Whenever a change to a control measure or combination of control measures could impact whether the control measure or combination of control measures, when properly implemented, will effectively control the hazards; and</P>
+<P>(iii) Whenever a reanalysis of the food safety plan reveals the need to do so;</P>
+<P>(2) Must include obtaining and evaluating scientific and technical evidence (or, when such evidence is not available or is inadequate, conducting studies) to determine whether the preventive controls, when properly implemented, will effectively control the hazards; and</P>
+<P>(c) You do not need to validate:</P>
+<P>(1) The food allergen controls in &#xA7; 117.135(c)(2);</P>
+<P>(2) The sanitation controls in &#xA7; 117.135(c)(3);</P>
+<P>(3) The recall plan in &#xA7; 117.139;</P>
+<P>(4) The supply-chain program in subpart G of this part; and</P>
+<P>(5) Other preventive controls, if the preventive controls qualified individual prepares (or oversees the preparation of) a written justification that validation is not applicable based on factors such as the nature of the hazard, and the nature of the preventive control and its role in the facility's food safety system.</P>
+</DIV8>
+
+<DIV8 N="117.165" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.165&quot;,&quot;citation&quot;:&quot;21 CFR 117.165&quot;}">
+<HEAD>&#xA7; 117.165 Verification of implementation and effectiveness.</HEAD>
+<P>(a) <I>Verification activities.</I> You must verify that the preventive controls are consistently implemented and are effectively and significantly minimizing or preventing the hazards. To do so you must conduct activities that include the following, as appropriate to the facility, the food, and the nature of the preventive control and its role in the facility's food safety system:</P>
+<P>(1) Calibration of process monitoring instruments and verification instruments (or checking them for accuracy);</P>
+<P>(2) Product testing, for a pathogen (or appropriate indicator organism) or other hazard;</P>
+<P>(3) Environmental monitoring, for an environmental pathogen or for an appropriate indicator organism, if contamination of a ready-to-eat food with an environmental pathogen is a hazard requiring a preventive control, by collecting and testing environmental samples; and</P>
+<P>(4) Review of the following records within the specified timeframes, by (or under the oversight of) a preventive controls qualified individual, to ensure that the records are complete, the activities reflected in the records occurred in accordance with the food safety plan, the preventive controls are effective, and appropriate decisions were made about corrective actions:</P>
+<P>(i) Records of monitoring and corrective action records within 7 working days after the records are created or within a reasonable timeframe, provided that the preventive controls qualified individual prepares (or oversees the preparation of) a written justification for a timeframe that exceeds 7 working days; and</P>
+<P>(ii) Records of calibration, testing (<I>e.g.,</I> product testing, environmental monitoring), supplier and supply-chain verification activities, and other verification activities within a reasonable time after the records are created; and</P>
+<P>(5) Other activities appropriate for verification of implementation and effectiveness.</P>
+<P>(b) <I>Written procedures.</I> As appropriate to the facility, the food, the nature of the preventive control, and the role of the preventive control in the facility's food safety system, you must establish and implement written procedures for the following activities:</P>
+<P>(1) The method and frequency of calibrating process monitoring instruments and verification instruments (or checking them for accuracy) as required by paragraph (a)(1) of this section.</P>
+<P>(2) Product testing as required by paragraph (a)(2) of this section. Procedures for product testing must:</P>
+<P>(i) Be scientifically valid;</P>
+<P>(ii) Identify the test microorganism(s) or other analyte(s);</P>
+<P>(iii) Specify the procedures for identifying samples, including their relationship to specific lots of product;</P>
+<P>(iv) Include the procedures for sampling, including the number of samples and the sampling frequency;</P>
+<P>(v) Identify the test(s) conducted, including the analytical method(s) used;</P>
+<P>(vi) Identify the laboratory conducting the testing; and</P>
+<P>(vii) Include the corrective action procedures required by &#xA7; 117.150(a)(1).</P>
+<P>(3) Environmental monitoring as required by paragraph (a)(3) of this section. Procedures for environmental monitoring must:</P>
+<P>(i) Be scientifically valid;</P>
+<P>(ii) Identify the test microorganism(s);</P>
+<P>(iii) Identify the locations from which samples will be collected and the number of sites to be tested during routine environmental monitoring. The number and location of sampling sites must be adequate to determine whether preventive controls are effective;</P>
+<P>(iv) Identify the timing and frequency for collecting and testing samples. The timing and frequency for collecting and testing samples must be adequate to determine whether preventive controls are effective;</P>
+<P>(v) Identify the test(s) conducted, including the analytical method(s) used;</P>
+<P>(vi) Identify the laboratory conducting the testing; and</P>
+<P>(vii) Include the corrective action procedures required by &#xA7; 117.150(a)(1).</P>
+</DIV8>
+
+<DIV8 N="117.170" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.170&quot;,&quot;citation&quot;:&quot;21 CFR 117.170&quot;}">
+<HEAD>&#xA7; 117.170 Reanalysis.</HEAD>
+<P>(a) You must conduct a reanalysis of the food safety plan as a whole at least once every 3 years;</P>
+<P>(b) You must conduct a reanalysis of the food safety plan as a whole, or the applicable portion of the food safety plan:</P>
+<P>(1) Whenever a significant change in the activities conducted at your facility creates a reasonable potential for a new hazard or creates a significant increase in a previously identified hazard;</P>
+<P>(2) Whenever you become aware of new information about potential hazards associated with the food;</P>
+<P>(3) Whenever appropriate after an unanticipated food safety problem in accordance with &#xA7; 117.150(b); and</P>
+<P>(4) Whenever you find that a preventive control, combination of preventive controls, or the food safety plan as a whole is ineffective.</P>
+<P>(c) You must complete the reanalysis required by paragraphs (a) and (b) of this section and validate, as appropriate to the nature of the preventive control and its role in the facility's food safety system, any additional preventive controls needed to address the hazard identified:</P>
+<P>(1) Before any change in activities (including any change in preventive control) at the facility is operative; or</P>
+<P>(2) When necessary to demonstrate the control measures can be implemented as designed:</P>
+<P>(i) Within 90 calendar days after production of the applicable food first begins; or</P>
+<P>(ii) Within a reasonable timeframe, provided that the preventive controls qualified individual prepares (or oversees the preparation of) a written justification for a timeframe that exceeds 90-calendar days after production of the applicable food first begins.</P>
+<P>(d) You must revise the written food safety plan if a significant change in the activities conducted at your facility creates a reasonable potential for a new hazard or a significant increase in a previously identified hazard or document the basis for the conclusion that no revisions are needed.</P>
+<P>(e) A preventive controls qualified individual must perform (or oversee) the reanalysis.</P>
+<P>(f) You must conduct a reanalysis of the food safety plan when FDA determines it is necessary to respond to new hazards and developments in scientific understanding.</P>
+</DIV8>
+
+<DIV8 N="117.180" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.180&quot;,&quot;citation&quot;:&quot;21 CFR 117.180&quot;}">
+<HEAD>&#xA7; 117.180 Requirements applicable to a preventive controls qualified individual and a qualified auditor.</HEAD>
+<P>(a) One or more preventive controls qualified individuals must do or oversee the following:</P>
+<P>(1) Preparation of the food safety plan (&#xA7; 117.126(a)(2));</P>
+<P>(2) Validation of the preventive controls (&#xA7; 117.160(b)(1));</P>
+<P>(3) Written justification for validation to be performed in a timeframe that exceeds the first 90 calendar days of production of the applicable food;</P>
+<P>(4) Determination that validation is not required (&#xA7; 117.160(c)(5));</P>
+<P>(5) Review of records (&#xA7; 117.165(a)(4));</P>
+<P>(6) Written justification for review of records of monitoring and corrective actions within a timeframe that exceeds 7 working days;</P>
+<P>(7) Reanalysis of the food safety plan (&#xA7; 117.170(d)); and</P>
+<P>(8) Determination that reanalysis can be completed, and additional preventive controls validated, as appropriate to the nature of the preventive control and its role in the facility's food safety system, in a timeframe that exceeds the first 90 calendar days of production of the applicable food.</P>
+<P>(b) A qualified auditor must conduct an onsite audit (&#xA7; 117.435(a)).</P>
+<P>(c)(1) To be a preventive controls qualified individual, the individual must have successfully completed training in the development and application of risk-based preventive controls at least equivalent to that received under a standardized curriculum recognized as adequate by FDA or be otherwise qualified through job experience to develop and apply a food safety system. Job experience may qualify an individual to perform these functions if such experience has provided an individual with knowledge at least equivalent to that provided through the standardized curriculum. This individual may be, but is not required to be, an employee of the facility.</P>
+<P>(2) To be a qualified auditor, a qualified individual must have technical expertise obtained through education, training, or experience (or a combination thereof) necessary to perform the auditing function.</P>
+<P>(d) All applicable training in the development and application of risk-based preventive controls must be documented in records, including the date of the training, the type of training, and the person(s) trained.</P>
+</DIV8>
+
+<DIV8 N="117.190" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.190&quot;,&quot;citation&quot;:&quot;21 CFR 117.190&quot;}">
+<HEAD>&#xA7; 117.190 Implementation records required for this subpart.</HEAD>
+<P>(a) You must establish and maintain the following records documenting implementation of the food safety plan:</P>
+<P>(1) Documentation, as required by &#xA7; 117.136(b), of the basis for not establishing a preventive control in accordance with &#xA7; 117.136(a);</P>
+<P>(2) Records that document the monitoring of preventive controls;</P>
+<P>(3) Records that document corrective actions;</P>
+<P>(4) Records that document verification, including, as applicable, those related to:</P>
+<P>(i) Validation;</P>
+<P>(ii) Verification of monitoring;</P>
+<P>(iii) Verification of corrective actions;</P>
+<P>(iv) Calibration of process monitoring and verification instruments;</P>
+<P>(v) Product testing;</P>
+<P>(vi) Environmental monitoring;</P>
+<P>(vii) Records review; and</P>
+<P>(viii) Reanalysis;</P>
+<P>(5) Records that document the supply-chain program; and</P>
+<P>(6) Records that document applicable training for the preventive controls qualified individual and the qualified auditor.</P>
+<P>(b) The records that you must establish and maintain are subject to the requirements of subpart F of this part.</P>
+</DIV8>
+
+</DIV6>
+<DIV6 N="D" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-21/part-117/subpart-D&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;21 CFR Part 117 Subpart D&amp;quot;}">
+<HEAD>Subpart D - Modified Requirements</HEAD>
+<DIV8 N="117.201" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.201&quot;,&quot;citation&quot;:&quot;21 CFR 117.201&quot;}">
+<HEAD>&#xA7; 117.201 Modified requirements that apply to a qualified facility.</HEAD>
+<P>(a) <I>Attestations to be submitted.</I> A qualified facility must submit the following attestations to FDA:</P>
+<P>(1) An attestation that the facility is a qualified facility as defined in &#xA7; 117.3. For the purpose of determining whether a facility satisfies the definition of qualified facility, the baseline year for calculating the adjustment for inflation is 2011; and</P>
+<P>(2)(i) An attestation that you have identified the potential hazards associated with the food being produced, are implementing preventive controls to address the hazards, and are monitoring the performance of the preventive controls to ensure that such controls are effective; or</P>
+<P>(ii) An attestation that the facility is in compliance with State, local, county, tribal, or other applicable non-Federal food safety law, including relevant laws and regulations of foreign countries, including an attestation based on licenses, inspection reports, certificates, permits, credentials, certification by an appropriate agency (such as a State department of agriculture), or other evidence of oversight.</P>
+<P>(b) <I>Procedure for submission.</I> The attestations required by paragraph (a) of this section must be submitted to FDA by one of the following means:</P>
+<P>(1) <I>Electronic submission.</I> To submit electronically, go to <I>http://www.fda.gov/furls</I> and follow the instructions. This Web site is available from wherever the Internet is accessible, including libraries, copy centers, schools, and Internet cafes. FDA encourages electronic submission.</P>
+<P>(2) <I>Submission by mail.</I> (i) You must use Form FDA 3942a. You may obtain a copy of this form by any of the following mechanisms:</P>
+<P>(A) Download it from <I>http://www.fda.gov/pchfrule</I>;</P>
+<P>(B) Write to the U.S. Food and Drug Administration (HFS-681), 5001 Campus Dr., College Park, MD 20740; or</P>
+<P>(C) Request a copy of this form by phone at 1-800-216-7331 or 301-575-0156.</P>
+<P>(ii) Send a paper Form FDA 3942a to the U.S. Food and Drug Administration (HFS-681), 5001 Campus Dr., College Park, MD 20740. We recommend that you submit a paper copy only if your facility does not have reasonable access to the Internet.</P>
+<P>(c) <I>Frequency of determination of status and submission.</I> (1) A facility must determine and document its status as a qualified facility on an annual basis no later than July 1 of each calendar year.</P>
+<P>(2) The attestations required by paragraph (a) of this section must be:</P>
+<P>(i) Submitted to FDA initially:</P>
+<P>(A) By December 17, 2018, for a facility that begins manufacturing, processing, packing, or holding food before September 17, 2018;</P>
+<P>(B) Before beginning operations, for a facility that begins manufacturing, processing, packing, or holding food after September 17, 2018; or</P>
+<P>(C) By July 31 of the applicable calendar year, when the status of a facility changes from &#x201C;not a qualified facility&#x201D; to &#x201C;qualified facility&#x201D; based on the annual determination required by paragraph (c)(1) of this section; and</P>
+<P>(ii) Beginning in 2020, submitted to FDA every 2 years during the period beginning on October 1 and ending on December 31.</P>
+<P>(3) When the status of a facility changes from &#x201C;qualified facility&#x201D; to &#x201C;not a qualified facility&#x201D; based on the annual determination required by paragraph (c)(1) of this section, the facility must notify FDA of that change in status using Form 3942a by July 31 of the applicable calendar year.</P>
+<P>(d) <I>Timeframe for compliance with subparts C and G of this part when the facility status changes to &#x201C;not a qualified facility.&#x201D;</I> When the status of a facility changes from &#x201C;qualified facility&#x201D; to &#x201C;not a qualified facility,&#x201D; the facility must comply with subparts C and G of this part no later than December 31 of the applicable calendar year unless otherwise agreed to by FDA and the facility.</P>
+<P>(e) <I>Notification to consumers.</I> A qualified facility that does not submit attestations under paragraph (a)(2)(i) of this section must provide notification to consumers as to the name and complete business address of the facility where the food was manufactured or processed (including the street address or P.O. box, city, state, and zip code for domestic facilities, and comparable full address information for foreign facilities), as follows:</P>
+<P>(1) If a food packaging label is required, the notification required by paragraph (e) of this section must appear prominently and conspicuously on the label of the food.</P>
+<P>(2) If a food packaging label is not required, the notification required by paragraph (e) of this section must appear prominently and conspicuously, at the point of purchase, on a label, poster, sign, placard, or documents delivered contemporaneously with the food in the normal course of business, or in an electronic notice, in the case of Internet sales.</P>
+<P>(f) <I>Records.</I> (1) A qualified facility must maintain those records relied upon to support the attestations that are required by paragraph (a) of this section.</P>
+<P>(2) The records that a qualified facility must maintain are subject to the requirements of subpart F of this part.</P>
+<CITA TYPE="N">[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2016]
+</CITA>
+</DIV8>
+
+<DIV8 N="117.206" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.206&quot;,&quot;citation&quot;:&quot;21 CFR 117.206&quot;}">
+<HEAD>&#xA7; 117.206 Modified requirements that apply to a facility solely engaged in the storage of unexposed packaged food.</HEAD>
+<P>(a) If a facility that is solely engaged in the storage of unexposed packaged food stores any such refrigerated packaged food that requires time/temperature control to significantly minimize or prevent the growth of, or toxin production by pathogens, the facility must conduct the following activities as appropriate to ensure the effectiveness of the temperature controls:</P>
+<P>(1) Establish and implement temperature controls adequate to significantly minimize or prevent the growth of, or toxin production by, pathogens;</P>
+<P>(2) Monitor the temperature controls with adequate frequency to provide assurance that the temperature controls are consistently performed;</P>
+<P>(3) If there is a loss of temperature control that may impact the safety of such refrigerated packaged food, take appropriate corrective actions to:</P>
+<P>(i) Correct the problem and reduce the likelihood that the problem will recur;</P>
+<P>(ii) Evaluate all affected food for safety; and</P>
+<P>(iii) Prevent the food from entering commerce, if you cannot ensure the affected food is not adulterated under section 402 of the Federal Food, Drug, and Cosmetic Act;</P>
+<P>(4) Verify that temperature controls are consistently implemented by:</P>
+<P>(i) Calibrating temperature monitoring and recording devices (or checking them for accuracy);</P>
+<P>(ii) Reviewing records of calibration within a reasonable time after the records are created; and</P>
+<P>(iii) Reviewing records of monitoring and corrective actions taken to correct a problem with the control of temperature within 7 working days after the records are created or within a reasonable timeframe, provided that the preventive controls qualified individual prepares (or oversees the preparation of) a written justification for a timeframe that exceeds 7 working days;</P>
+<P>(5) Establish and maintain the following records:</P>
+<P>(i) Records (whether affirmative records demonstrating temperature is controlled or exception records demonstrating loss of temperature control) documenting the monitoring of temperature controls for any such refrigerated packaged food;</P>
+<P>(ii) Records of corrective actions taken when there is a loss of temperature control that may impact the safety of any such refrigerated packaged food; and</P>
+<P>(iii) Records documenting verification activities.</P>
+<P>(b) The records that a facility must establish and maintain under paragraph (a)(5) of this section are subject to the requirements of subpart F of this part.</P>
+</DIV8>
+
+</DIV6>
+<DIV6 N="E" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-21/part-117/subpart-E&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;21 CFR Part 117 Subpart E&amp;quot;}">
+<HEAD>Subpart E - Withdrawal of a Qualified Facility Exemption</HEAD>
+<DIV8 N="117.251" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.251&quot;,&quot;citation&quot;:&quot;21 CFR 117.251&quot;}">
+<HEAD>&#xA7; 117.251 Circumstances that may lead FDA to withdraw a qualified facility exemption.</HEAD>
+<P>(a) FDA may withdraw a qualified facility exemption under &#xA7; 117.5(a):</P>
+<P>(1) In the event of an active investigation of a foodborne illness outbreak that is directly linked to the qualified facility; or</P>
+<P>(2) If FDA determines that it is necessary to protect the public health and prevent or mitigate a foodborne illness outbreak based on conditions or conduct associated with the qualified facility that are material to the safety of the food manufactured, processed, packed, or held at such facility.</P>
+<P>(b) Before FDA issues an order to withdraw a qualified facility exemption, FDA:</P>
+<P>(1) May consider one or more other actions to protect the public health or mitigate a foodborne illness outbreak, including a warning letter, recall, administrative detention, suspension of registration, refusal of food offered for import, seizure, and injunction;</P>
+<P>(2) Must notify the owner, operator, or agent in charge of the facility, in writing, of circumstances that may lead FDA to withdraw the exemption, and provide an opportunity for the owner, operator, or agent in charge of the facility to respond in writing, within 15 calendar days of the date of receipt of the notification, to FDA's notification; and</P>
+<P>(3) Must consider the actions taken by the facility to address the circumstances that may lead FDA to withdraw the exemption.</P>
+</DIV8>
+
+<DIV8 N="117.254" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.254&quot;,&quot;citation&quot;:&quot;21 CFR 117.254&quot;}">
+<HEAD>&#xA7; 117.254 Issuance of an order to withdraw a qualified facility exemption.</HEAD>
+<P>(a) An FDA District Director in whose district the qualified facility is located (or, in the case of a foreign facility, the Director of the Office of Compliance in the Center for Food Safety and Applied Nutrition), or an FDA official senior to either such Director, must approve an order to withdraw the exemption before the order is issued.</P>
+<P>(b) Any officer or qualified employee of FDA may issue an order to withdraw the exemption after it has been approved in accordance with paragraph (a) of this section.</P>
+<P>(c) FDA must issue an order to withdraw the exemption to the owner, operator, or agent in charge of the facility.</P>
+<P>(d) FDA must issue an order to withdraw the exemption in writing, signed and dated by the officer or qualified employee of FDA who is issuing the order.</P>
+</DIV8>
+
+<DIV8 N="117.257" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.257&quot;,&quot;citation&quot;:&quot;21 CFR 117.257&quot;}">
+<HEAD>&#xA7; 117.257 Contents of an order to withdraw a qualified facility exemption.</HEAD>
+<P>An order to withdraw a qualified facility exemption under &#xA7; 117.5(a) must include the following information:</P>
+<P>(a) The date of the order;</P>
+<P>(b) The name, address, and location of the qualified facility;</P>
+<P>(c) A brief, general statement of the reasons for the order, including information relevant to one or both of the following circumstances that leads FDA to issue the order:</P>
+<P>(1) An active investigation of a foodborne illness outbreak that is directly linked to the facility; or</P>
+<P>(2) Conditions or conduct associated with a qualified facility that are material to the safety of the food manufactured, processed, packed, or held at such facility.</P>
+<P>(d) A statement that the facility must either:</P>
+<P>(1) Comply with subparts C and G of this part on the date that is 120 calendar days after the date of receipt of the order, or within a reasonable timeframe, agreed to by FDA, based on a written justification, submitted to FDA, for a timeframe that exceeds 120 calendar days from the date of receipt of the order; or</P>
+<P>(2) Appeal the order within 15 calendar days of the date of receipt of the order in accordance with the requirements of &#xA7; 117.264.</P>
+<P>(e) A statement that a facility may request that FDA reinstate an exemption that was withdrawn by following the procedures in &#xA7; 117.287;</P>
+<P>(f) The text of section 418(l) of the Federal Food, Drug, and Cosmetic Act and of this subpart;</P>
+<P>(g) A statement that any informal hearing on an appeal of the order must be conducted as a regulatory hearing under part 16 of this chapter, with certain exceptions described in &#xA7; 117.270;</P>
+<P>(h) The mailing address, telephone number, email address, and facsimile number of the FDA district office and the name of the FDA District Director in whose district the facility is located (or, in the case of a foreign facility, the same information for the Director of the Office of Compliance in the Center for Food Safety and Applied Nutrition); and</P>
+<P>(i) The name and the title of the FDA representative who approved the order.</P>
+<CITA TYPE="N">[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2016]
+</CITA>
+</DIV8>
+
+<DIV8 N="117.260" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.260&quot;,&quot;citation&quot;:&quot;21 CFR 117.260&quot;}">
+<HEAD>&#xA7; 117.260 Compliance with, or appeal of, an order to withdraw a qualified facility exemption.</HEAD>
+<P>(a) If you receive an order under &#xA7; 117.254 to withdraw a qualified facility exemption, you must either:</P>
+<P>(1) Comply with applicable requirements of this part within 120 calendar days of the date of receipt of the order, or within a reasonable timeframe, agreed to by FDA, based on a written justification, submitted to FDA, for a timeframe that exceeds 120 calendar days from the date of receipt of the order; or</P>
+<P>(2) Appeal the order within 15 calendar days of the date of receipt of the order in accordance with the requirements of &#xA7; 117.264.</P>
+<P>(b) Submission of an appeal, including submission of a request for an informal hearing, will not operate to delay or stay any administrative action, including enforcement action by FDA, unless the Commissioner of Food and Drugs, as a matter of discretion, determines that delay or a stay is in the public interest.</P>
+<P>(c) If you appeal the order, and FDA confirms the order:</P>
+<P>(1) You must comply with applicable requirements of this part within 120 calendar days of the date of receipt of the order, or within a reasonable timeframe, agreed to by FDA, based on a written justification, submitted to FDA, for a timeframe that exceeds 120 calendar days from the date of receipt of the order; and</P>
+<P>(2) You are no longer subject to the modified requirements in &#xA7; 117.201.</P>
+</DIV8>
+
+<DIV8 N="117.264" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.264&quot;,&quot;citation&quot;:&quot;21 CFR 117.264&quot;}">
+<HEAD>&#xA7; 117.264 Procedure for submitting an appeal.</HEAD>
+<P>(a) To appeal an order to withdraw a qualified facility exemption, you must:</P>
+<P>(1) Submit the appeal in writing to the FDA District Director in whose district the facility is located (or, in the case of a foreign facility, the Director of the Office of Compliance in the Center for Food Safety and Applied Nutrition), at the mailing address, email address, or facsimile number identified in the order within 15 calendar days of the date of receipt of confirmation of the order; and</P>
+<P>(2) Respond with particularity to the facts and issues contained in the order, including any supporting documentation upon which you rely.</P>
+<P>(b) In a written appeal of the order withdrawing an exemption provided under &#xA7; 117.5(a), you may include a written request for an informal hearing as provided in &#xA7; 117.267.</P>
+<CITA TYPE="N">[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2016]
+</CITA>
+</DIV8>
+
+<DIV8 N="117.267" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.267&quot;,&quot;citation&quot;:&quot;21 CFR 117.267&quot;}">
+<HEAD>&#xA7; 117.267 Procedure for requesting an informal hearing.</HEAD>
+<P>(a) If you appeal the order, you:</P>
+<P>(1) May request an informal hearing; and</P>
+<P>(2) Must submit any request for an informal hearing together with your written appeal submitted in accordance with &#xA7; 117.264 within 15 calendar days of the date of receipt of the order.</P>
+<P>(b) A request for an informal hearing may be denied, in whole or in part, if the presiding officer determines that no genuine and substantial issue of material fact has been raised by the material submitted. If the presiding officer determines that a hearing is not justified, written notice of the determination will be given to you explaining the reason for the denial.</P>
+</DIV8>
+
+<DIV8 N="117.270" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.270&quot;,&quot;citation&quot;:&quot;21 CFR 117.270&quot;}">
+<HEAD>&#xA7; 117.270 Requirements applicable to an informal hearing.</HEAD>
+<P>If you request an informal hearing, and FDA grants the request:</P>
+<P>(a) The hearing will be held within 15 calendar days after the date the appeal is filed or, if applicable, within a timeframe agreed upon in writing by you and FDA.</P>
+<P>(b) The presiding officer may require that a hearing conducted under this subpart be completed within 1-calendar day, as appropriate.</P>
+<P>(c) FDA must conduct the hearing in accordance with part 16 of this chapter, except that:</P>
+<P>(1) The order withdrawing an exemption under &#xA7;&#xA7; 117.254 and 117.257, rather than the notice under &#xA7; 16.22(a) of this chapter, provides notice of opportunity for a hearing under this section and is part of the administrative record of the regulatory hearing under &#xA7; 16.80(a) of this chapter.</P>
+<P>(2) A request for a hearing under this subpart must be addressed to the FDA District Director (or, in the case of a foreign facility, the Director of the Office of Compliance in the Center for Food Safety and Applied Nutrition) as provided in the order withdrawing an exemption.</P>
+<P>(3) Section 117.274, rather than &#xA7; 16.42(a) of this chapter, describes the FDA employees who preside at hearings under this subpart.</P>
+<P>(4) Section 16.60(e) and (f) of this chapter does not apply to a hearing under this subpart. The presiding officer must prepare a written report of the hearing. All written material presented at the hearing will be attached to the report. The presiding officer must include as part of the report of the hearing a finding on the credibility of witnesses (other than expert witnesses) whenever credibility is a material issue, and must include a proposed decision, with a statement of reasons. The hearing participant may review and comment on the presiding officer's report within 2-calendar days of issuance of the report. The presiding officer will then issue the final decision.</P>
+<P>(5) Section 16.80(a)(4) of this chapter does not apply to a regulatory hearing under this subpart. The presiding officer's report of the hearing and any comments on the report by the hearing participant under &#xA7; 117.270(c)(4) are part of the administrative record.</P>
+<P>(6) No party shall have the right, under &#xA7; 16.119 of this chapter to petition the Commissioner of Food and Drugs for reconsideration or a stay of the presiding officer's final decision.</P>
+<P>(7) If FDA grants a request for an informal hearing on an appeal of an order withdrawing an exemption, the hearing must be conducted as a regulatory hearing under a regulation in accordance with part 16 of this chapter, except that &#xA7; 16.95(b) of this chapter does not apply to a hearing under this subpart. With respect to a regulatory hearing under this subpart, the administrative record of the hearing specified in &#xA7;&#xA7; 16.80(a)(1) through (3) and (a)(5) of this chapter and 117.270(c)(5) constitutes the exclusive record for the presiding officer's final decision. For purposes of judicial review under &#xA7; 10.45 of this chapter, the record of the administrative proceeding consists of the record of the hearing and the presiding officer's final decision.</P>
+</DIV8>
+
+<DIV8 N="117.274" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.274&quot;,&quot;citation&quot;:&quot;21 CFR 117.274&quot;}">
+<HEAD>&#xA7; 117.274 Presiding officer for an appeal and for an informal hearing.</HEAD>
+<P>The presiding officer for an appeal, and for an informal hearing, must be an Office of Regulatory Affairs Program Director or another FDA official senior to an FDA District Director.</P>
+<CITA TYPE="N">[82 FR 14146, Mar. 17, 2017]
+</CITA>
+</DIV8>
+
+<DIV8 N="117.277" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.277&quot;,&quot;citation&quot;:&quot;21 CFR 117.277&quot;}">
+<HEAD>&#xA7; 117.277 Timeframe for issuing a decision on an appeal.</HEAD>
+<P>(a) If you appeal the order without requesting a hearing, the presiding officer must issue a written report that includes a final decision confirming or revoking the withdrawal by the 10th calendar day after the appeal is filed.</P>
+<P>(b) If you appeal the order and request an informal hearing:</P>
+<P>(1) If FDA grants the request for a hearing and the hearing is held, the presiding officer must provide a 2-calendar day opportunity for the hearing participants to review and submit comments on the report of the hearing under &#xA7; 117.270(c)(4), and must issue a final decision within 10-calendar days after the hearing is held; or</P>
+<P>(2) If FDA denies the request for a hearing, the presiding officer must issue a final decision on the appeal confirming or revoking the withdrawal within 10 calendar days after the date the appeal is filed.</P>
+</DIV8>
+
+<DIV8 N="117.280" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.280&quot;,&quot;citation&quot;:&quot;21 CFR 117.280&quot;}">
+<HEAD>&#xA7; 117.280 Revocation of an order to withdraw a qualified facility exemption.</HEAD>
+<P>An order to withdraw a qualified facility exemption is revoked if:</P>
+<P>(a) You appeal the order and request an informal hearing, FDA grants the request for an informal hearing, and the presiding officer does not confirm the order within the 10-calendar days after the hearing, or issues a decision revoking the order within that time; or</P>
+<P>(b) You appeal the order and request an informal hearing, FDA denies the request for an informal hearing, and FDA does not confirm the order within the 10-calendar days after the appeal is filed, or issues a decision revoking the order within that time; or</P>
+<P>(c) You appeal the order without requesting an informal hearing, and FDA does not confirm the order within the 10-calendar days after the appeal is filed, or issues a decision revoking the order within that time.</P>
+</DIV8>
+
+<DIV8 N="117.284" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.284&quot;,&quot;citation&quot;:&quot;21 CFR 117.284&quot;}">
+<HEAD>&#xA7; 117.284 Final agency action.</HEAD>
+<P>Confirmation of a withdrawal order by the presiding officer is considered a final agency action for purposes of 5 U.S.C. 702.</P>
+</DIV8>
+
+<DIV8 N="117.287" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.287&quot;,&quot;citation&quot;:&quot;21 CFR 117.287&quot;}">
+<HEAD>&#xA7; 117.287 Reinstatement of a qualified facility exemption that was withdrawn.</HEAD>
+<P>(a) If the FDA District Director in whose district your facility is located (or, in the case of a foreign facility, the Director of the Office of Compliance in the Center for Food Safety and Applied Nutrition) determines that a facility has adequately resolved any problems with the conditions and conduct that are material to the safety of the food manufactured, processed, packed, or held at the facility and that continued withdrawal of the exemption is not necessary to protect public health and prevent or mitigate a foodborne illness outbreak, the FDA District Director in whose district your facility is located (or, in the case of a foreign facility, the Director of the Office of Compliance in the Center for Food Safety and Applied Nutrition) will, on his own initiative or on the request of a facility, reinstate the exemption.</P>
+<P>(b) You may ask FDA to reinstate an exemption that has been withdrawn under the procedures of this subpart as follows:</P>
+<P>(1) Submit a request, in writing, to the FDA District Director in whose district your facility is located (or, in the case of a foreign facility, the Director of the Office of Compliance in the Center for Food Safety and Applied Nutrition); and</P>
+<P>(2) Present data and information to demonstrate that you have adequately resolved any problems with the conditions and conduct that are material to the safety of the food manufactured, processed, packed, or held at your facility, such that continued withdrawal of the exemption is not necessary to protect public health and prevent or mitigate a foodborne illness outbreak.</P>
+<P>(c) If your exemption was withdrawn under &#xA7; 117.251(a)(1) and FDA later determines, after finishing the active investigation of a foodborne illness outbreak, that the outbreak is not directly linked to your facility, FDA will reinstate your exemption under &#xA7; 117.5(a), and FDA will notify you in writing that your exempt status has been reinstated.</P>
+<P>(d) If your exemption was withdrawn under both &#xA7; 117.251(a)(1) and (2) and FDA later determines, after finishing the active investigation of a foodborne illness outbreak, that the outbreak is not directly linked to your facility, FDA will inform you of this finding, and you may ask FDA to reinstate your exemption under &#xA7; 117.5(a) in accordance with the requirements of paragraph (b) of this section.</P>
+</DIV8>
+
+</DIV6>
+<DIV6 N="F" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-21/part-117/subpart-F&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;21 CFR Part 117 Subpart F&amp;quot;}">
+<HEAD>Subpart F - Requirements Applying to Records That Must Be Established and Maintained</HEAD>
+<DIV8 N="117.301" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.301&quot;,&quot;citation&quot;:&quot;21 CFR 117.301&quot;}">
+<HEAD>&#xA7; 117.301 Records subject to the requirements of this subpart.</HEAD>
+<P>(a) Except as provided by paragraphs (b) and (c) of this section, all records required by this part are subject to all requirements of this subpart.</P>
+<P>(b) The requirements of &#xA7; 117.310 apply only to the written food safety plan.</P>
+<P>(c) The requirements of &#xA7; 117.305(b), (d), (e), and (f) do not apply to the records required by &#xA7; 117.201.</P>
+</DIV8>
+
+<DIV8 N="117.305" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.305&quot;,&quot;citation&quot;:&quot;21 CFR 117.305&quot;}">
+<HEAD>&#xA7; 117.305 General requirements applying to records.</HEAD>
+<P>Records must:</P>
+<P>(a) Be kept as original records, true copies (such as photocopies, pictures, scanned copies, microfilm, microfiche, or other accurate reproductions of the original records), or electronic records;</P>
+<P>(b) Contain the actual values and observations obtained during monitoring and, as appropriate, during verification activities;</P>
+<P>(c) Be accurate, indelible, and legible;</P>
+<P>(d) Be created concurrently with performance of the activity documented;</P>
+<P>(e) Be as detailed as necessary to provide history of work performed; and</P>
+<P>(f) Include:</P>
+<P>(1) Information adequate to identify the plant or facility (<I>e.g.,</I> the name, and when necessary, the location of the plant or facility);</P>
+<P>(2) The date and, when appropriate, the time of the activity documented;</P>
+<P>(3) The signature or initials of the person performing the activity; and</P>
+<P>(4) Where appropriate, the identity of the product and the lot code, if any.</P>
+<P>(g) Records that are established or maintained to satisfy the requirements of this part and that meet the definition of electronic records in &#xA7; 11.3(b)(6) of this chapter are exempt from the requirements of part 11 of this chapter. Records that satisfy the requirements of this part, but that also are required under other applicable statutory provisions or regulations, remain subject to part 11 of this chapter.</P>
+</DIV8>
+
+<DIV8 N="117.310" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.310&quot;,&quot;citation&quot;:&quot;21 CFR 117.310&quot;}">
+<HEAD>&#xA7; 117.310 Additional requirements applying to the food safety plan.</HEAD>
+<P>The owner, operator, or agent in charge of the facility must sign and date the food safety plan:</P>
+<P>(a) Upon initial completion; and</P>
+<P>(b) Upon any modification.</P>
+</DIV8>
+
+<DIV8 N="117.315" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.315&quot;,&quot;citation&quot;:&quot;21 CFR 117.315&quot;}">
+<HEAD>&#xA7; 117.315 Requirements for record retention.</HEAD>
+<P>(a)(1) All records required by this part must be retained at the plant or facility for at least 2 years after the date they were prepared.</P>
+<P>(2) Records that a facility relies on during the 3-year period preceding the applicable calendar year to support its status as a qualified facility must be retained at the facility as long as necessary to support the status of a facility as a qualified facility during the applicable calendar year.</P>
+<P>(b) Records that relate to the general adequacy of the equipment or processes being used by a facility, including the results of scientific studies and evaluations, must be retained by the facility for at least 2 years after their use is discontinued (<I>e.g.,</I> because the facility has updated the written food safety plan (&#xA7; 117.126) or records that document validation of the written food safety plan (&#xA7; 117.155(b)));</P>
+<P>(c) Except for the food safety plan, offsite storage of records is permitted if such records can be retrieved and provided onsite within 24 hours of request for official review. The food safety plan must remain onsite. Electronic records are considered to be onsite if they are accessible from an onsite location.</P>
+<P>(d) If the plant or facility is closed for a prolonged period, the food safety plan may be transferred to some other reasonably accessible location but must be returned to the plant or facility within 24 hours for official review upon request.</P>
+</DIV8>
+
+<DIV8 N="117.320" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.320&quot;,&quot;citation&quot;:&quot;21 CFR 117.320&quot;}">
+<HEAD>&#xA7; 117.320 Requirements for official review.</HEAD>
+<P>All records required by this part must be made promptly available to a duly authorized representative of the Secretary of Health and Human Services for official review and copying upon oral or written request.</P>
+</DIV8>
+
+<DIV8 N="117.325" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.325&quot;,&quot;citation&quot;:&quot;21 CFR 117.325&quot;}">
+<HEAD>&#xA7; 117.325 Public disclosure.</HEAD>
+<P>Records obtained by FDA in accordance with this part are subject to the disclosure requirements under part 20 of this chapter.</P>
+</DIV8>
+
+<DIV8 N="117.330" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.330&quot;,&quot;citation&quot;:&quot;21 CFR 117.330&quot;}">
+<HEAD>&#xA7; 117.330 Use of existing records.</HEAD>
+<P>(a) Existing records (<I>e.g.,</I> records that are kept to comply with other Federal, State, or local regulations, or for any other reason) do not need to be duplicated if they contain all of the required information and satisfy the requirements of this subpart. Existing records may be supplemented as necessary to include all of the required information and satisfy the requirements of this subpart.</P>
+<P>(b) The information required by this part does not need to be kept in one set of records. If existing records contain some of the required information, any new information required by this part may be kept either separately or combined with the existing records.</P>
+</DIV8>
+
+<DIV8 N="117.335" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.335&quot;,&quot;citation&quot;:&quot;21 CFR 117.335&quot;}">
+<HEAD>&#xA7; 117.335 Special requirements applicable to a written assurance.</HEAD>
+<P>(a) Any written assurance required by this part must contain the following elements:</P>
+<P>(1) Effective date;</P>
+<P>(2) Printed names and signatures of authorized officials;</P>
+<P>(3) The applicable assurance under:</P>
+<P>(i) Section 117.136(a)(2);</P>
+<P>(ii) Section 117.136(a)(3);</P>
+<P>(iii) Section 117.136(a)(4);</P>
+<P>(iv) Section 117.430(c)(2);</P>
+<P>(v) Section 117.430(d)(2); or</P>
+<P>(vi) Section 117.430(e)(2);</P>
+<P>(b) A written assurance required under &#xA7; 117.136(a)(2), (3), or (4) must include:</P>
+<P>(1) Acknowledgement that the facility that provides the written assurance assumes legal responsibility to act consistently with the assurance and document its actions taken to satisfy the written assurance; and</P>
+<P>(2) Provision that if the assurance is terminated in writing by either entity, responsibility for compliance with the applicable provisions of this part reverts to the manufacturer/processor as of the date of termination.</P>
+</DIV8>
+
+</DIV6>
+<DIV6 N="G" TYPE="SUBPART" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-21/part-117/subpart-G&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;21 CFR Part 117 Subpart G&amp;quot;}">
+<HEAD>Subpart G - Supply-Chain Program</HEAD>
+<DIV8 N="117.405" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.405&quot;,&quot;citation&quot;:&quot;21 CFR 117.405&quot;}">
+<HEAD>&#xA7; 117.405 Requirement to establish and implement a supply-chain program.</HEAD>
+<P>(a)(1) Except as provided by paragraphs (a)(2) and (3) of this section, the receiving facility must establish and implement a risk-based supply-chain program for those raw materials and other ingredients for which the receiving facility has identified a hazard requiring a supply-chain-applied control.</P>
+<P>(2) A receiving facility that is an importer, is in compliance with the foreign supplier verification program requirements under part 1, subpart L of this chapter, and has documentation of verification activities conducted under &#xA7; 1.506(e) of this chapter (which provides assurance that the hazards requiring a supply-chain-applied control for the raw material or other ingredient have been significantly minimized or prevented) need not conduct supplier verification activities for that raw material or other ingredient.</P>
+<P>(3) The requirements in this subpart do not apply to food that is supplied for research or evaluation use, provided that such food:</P>
+<P>(i) Is not intended for retail sale and is not sold or distributed to the public;</P>
+<P>(ii) Is labeled with the statement &#x201C;Food for research or evaluation use&#x201D;;</P>
+<P>(iii) Is supplied in a small quantity that is consistent with a research, analysis, or quality assurance purpose, the food is used only for this purpose, and any unused quantity is properly disposed of; and</P>
+<P>(iv) Is accompanied with documents, in accordance with the practice of the trade, stating that the food will be used for research or evaluation purposes and cannot be sold or distributed to the public.</P>
+<P>(b) The supply-chain program must be written.</P>
+<P>(c) When a supply-chain-applied control is applied by an entity other than the receiving facility's supplier (<I>e.g.,</I> when a non-supplier applies controls to certain produce (<I>i.e.,</I> produce covered by part 112 of this chapter), because growing, harvesting, and packing activities are under different management), the receiving facility must:</P>
+<P>(1) Verify the supply-chain-applied control; or</P>
+<P>(2) Obtain documentation of an appropriate verification activity from another entity, review and assess the entity's applicable documentation, and document that review and assessment.</P>
+<CITA TYPE="N">[80 FR 56145, Sept. 17, 2015; 81 FR 3956, Jan. 25, 2016]
+</CITA>
+<EFFDNOT>
+<HED>Effective Date Note:</HED><PSPACE>At 80 FR 56145, Sept. 17, 2015, &#xA7; 117.405 was added, effective Nov. 16, 2015, except for paragraph (a)(2). FDA will publish a document in the <E T="04">Federal Register</E> announcing the effective date for this paragraph.</PSPACE></EFFDNOT>
+</DIV8>
+
+<DIV8 N="117.410" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.410&quot;,&quot;citation&quot;:&quot;21 CFR 117.410&quot;}">
+<HEAD>&#xA7; 117.410 General requirements applicable to a supply-chain program.</HEAD>
+<P>(a) The supply-chain program must include:</P>
+<P>(1) Using approved suppliers as required by &#xA7; 117.420;</P>
+<P>(2) Determining appropriate supplier verification activities (including determining the frequency of conducting the activity) as required by &#xA7; 117.425;</P>
+<P>(3) Conducting supplier verification activities as required by &#xA7;&#xA7; 117.430 and 117.435;</P>
+<P>(4) Documenting supplier verification activities as required by &#xA7; 117.475; and</P>
+<P>(5) When applicable, verifying a supply-chain-applied control applied by an entity other than the receiving facility's supplier and documenting that verification as required by &#xA7; 117.475, or obtaining documentation of an appropriate verification activity from another entity, reviewing and assessing that documentation, and documenting the review and assessment as required by &#xA7; 117.475.</P>
+<P>(b) The following are appropriate supplier verification activities for raw materials and other ingredients:</P>
+<P>(1) Onsite audits;</P>
+<P>(2) Sampling and testing of the raw material or other ingredient;</P>
+<P>(3) Review of the supplier's relevant food safety records; and</P>
+<P>(4) Other appropriate supplier verification activities based on supplier performance and the risk associated with the raw material or other ingredient.</P>
+<P>(c) The supply-chain program must provide assurance that a hazard requiring a supply-chain-applied control has been significantly minimized or prevented.</P>
+<P>(d)(1) Except as provided by paragraph (d)(2) of this section, in approving suppliers and determining the appropriate supplier verification activities and the frequency with which they are conducted, the following must be considered:</P>
+<P>(i) The hazard analysis of the food, including the nature of the hazard controlled before receipt of the raw material or other ingredient, applicable to the raw material and other ingredients;</P>
+<P>(ii) The entity or entities that will be applying controls for the hazards requiring a supply-chain-applied control;</P>
+<P>(iii) Supplier performance, including:</P>
+<P>(A) The supplier's procedures, processes, and practices related to the safety of the raw material and other ingredients;</P>
+<P>(B) Applicable FDA food safety regulations and information relevant to the supplier's compliance with those regulations, including an FDA warning letter or import alert relating to the safety of food and other FDA compliance actions related to food safety (or, when applicable, relevant laws and regulations of a country whose food safety system FDA has officially recognized as comparable or has determined to be equivalent to that of the United States, and information relevant to the supplier's compliance with those laws and regulations); and</P>
+<P>(C) The supplier's food safety history relevant to the raw materials or other ingredients that the receiving facility receives from the supplier, including available information about results from testing raw materials or other ingredients for hazards, audit results relating to the safety of the food, and responsiveness of the supplier in correcting problems; and</P>
+<P>(iv) Any other factors as appropriate and necessary, such as storage and transportation practices.</P>
+<P>(2) Considering supplier performance can be limited to the supplier's compliance history as required by paragraph (d)(1)(iii)(B) of this section, if the supplier is:</P>
+<P>(i) A qualified facility as defined by &#xA7; 117.3;</P>
+<P>(ii) A farm that grows produce and is not a covered farm under part 112 of this chapter in accordance with &#xA7; 112.4(a), or in accordance with &#xA7;&#xA7; 112.4(b) and 112.5; or</P>
+<P>(iii) A shell egg producer that is not subject to the requirements of part 118 of this chapter because it has less than 3,000 laying hens.</P>
+<P>(e) If the owner, operator, or agent in charge of a receiving facility determines through auditing, verification testing, document review, relevant consumer, customer or other complaints, or otherwise that the supplier is not controlling hazards that the receiving facility has identified as requiring a supply-chain-applied control, the receiving facility must take and document prompt action in accordance with &#xA7; 117.150 to ensure that raw materials or other ingredients from the supplier do not cause food that is manufactured or processed by the receiving facility to be adulterated under section 402 of the Federal Food, Drug, and Cosmetic Act or misbranded under section 403(w) of the Federal Food, Drug, and Cosmetic Act.</P>
+</DIV8>
+
+<DIV8 N="117.415" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.415&quot;,&quot;citation&quot;:&quot;21 CFR 117.415&quot;}">
+<HEAD>&#xA7; 117.415 Responsibilities of the receiving facility.</HEAD>
+<P>(a)(1) The receiving facility must approve suppliers.</P>
+<P>(2) Except as provided by paragraphs (a)(3) and (4) of this section, the receiving facility must determine and conduct appropriate supplier verification activities, and satisfy all documentation requirements of this subpart.</P>
+<P>(3) An entity other than the receiving facility may do any of the following, provided that the receiving facility reviews and assesses the entity's applicable documentation, and documents that review and assessment:</P>
+<P>(i) Establish written procedures for receiving raw materials and other ingredients by the entity;</P>
+<P>(ii) Document that written procedures for receiving raw materials and other ingredients are being followed by the entity; and</P>
+<P>(iii) Determine, conduct, or both determine and conduct the appropriate supplier verification activities, with appropriate documentation.</P>
+<P>(4) The supplier may conduct and document sampling and testing of raw materials and other ingredients, for the hazard controlled by the supplier, as a supplier verification activity for a particular lot of product and provide such documentation to the receiving facility, provided that the receiving facility reviews and assesses that documentation, and documents that review and assessment.</P>
+<P>(b) For the purposes of this subpart, a receiving facility may not accept any of the following as a supplier verification activity:</P>
+<P>(1) A determination by its supplier of the appropriate supplier verification activities for that supplier;</P>
+<P>(2) An audit conducted by its supplier;</P>
+<P>(3) A review by its supplier of that supplier's own relevant food safety records; or</P>
+<P>(4) The conduct by its supplier of other appropriate supplier verification activities for that supplier within the meaning of &#xA7; 117.410(b)(4).</P>
+<P>(c) The requirements of this section do not prohibit a receiving facility from relying on an audit provided by its supplier when the audit of the supplier was conducted by a third-party qualified auditor in accordance with &#xA7;&#xA7; 117.430(f) and 117.435.</P>
+</DIV8>
+
+<DIV8 N="117.420" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.420&quot;,&quot;citation&quot;:&quot;21 CFR 117.420&quot;}">
+<HEAD>&#xA7; 117.420 Using approved suppliers.</HEAD>
+<P>(a) <I>Approval of suppliers.</I> The receiving facility must approve suppliers in accordance with the requirements of &#xA7; 117.410(d), and document that approval, before receiving raw materials and other ingredients received from those suppliers;</P>
+<P>(b) <I>Written procedures for receiving raw materials and other ingredients.</I> (1) Written procedures for receiving raw materials and other ingredients must be established and followed;</P>
+<P>(2) The written procedures for receiving raw materials and other ingredients must ensure that raw materials and other ingredients are received only from approved suppliers (or, when necessary and appropriate, on a temporary basis from unapproved suppliers whose raw materials or other ingredients are subjected to adequate verification activities before acceptance for use); and</P>
+<P>(3) Use of the written procedures for receiving raw materials and other ingredients must be documented.</P>
+</DIV8>
+
+<DIV8 N="117.425" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.425&quot;,&quot;citation&quot;:&quot;21 CFR 117.425&quot;}">
+<HEAD>&#xA7; 117.425 Determining appropriate supplier verification activities (including determining the frequency of conducting the activity).</HEAD>
+<P>Appropriate supplier verification activities (including the frequency of conducting the activity) must be determined in accordance with the requirements of &#xA7; 117.410(d).</P>
+</DIV8>
+
+<DIV8 N="117.430" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.430&quot;,&quot;citation&quot;:&quot;21 CFR 117.430&quot;}">
+<HEAD>&#xA7; 117.430 Conducting supplier verification activities for raw materials and other ingredients.</HEAD>
+<P>(a) Except as provided by paragraph (c), (d), or (e) of this section, one or more of the supplier verification activities specified in &#xA7; 117.410(b), as determined under &#xA7; 117.410(d), must be conducted for each supplier before using the raw material or other ingredient from that supplier and periodically thereafter.</P>
+<P>(b)(1) Except as provided by paragraph (b)(2) of this section, when a hazard in a raw material or other ingredient will be controlled by the supplier and is one for which there is a reasonable probability that exposure to the hazard will result in serious adverse health consequences or death to humans:</P>
+<P>(i) The appropriate supplier verification activity is an onsite audit of the supplier; and</P>
+<P>(ii) The audit must be conducted before using the raw material or other ingredient from the supplier and at least annually thereafter.</P>
+<P>(2) The requirements of paragraph (b)(1) of this section do not apply if there is a written determination that other verification activities and/or less frequent onsite auditing of the supplier provide adequate assurance that the hazards are controlled.</P>
+<P>(c) If a supplier is a qualified facility as defined by &#xA7; 117.3, the receiving facility does not need to comply with paragraphs (a) and (b) of this section if the receiving facility:</P>
+<P>(1) Obtains written assurance that the supplier is a qualified facility as defined by &#xA7; 117.3:</P>
+<P>(i) Before first approving the supplier for an applicable calendar year; and</P>
+<P>(ii) On an annual basis thereafter, by December 31 of each calendar year, for the following calendar year; and</P>
+<P>(2) Obtains written assurance, at least every 2 years, that the supplier is producing the raw material or other ingredient in compliance with applicable FDA food safety regulations (or, when applicable, relevant laws and regulations of a country whose food safety system FDA has officially recognized as comparable or has determined to be equivalent to that of the United States). The written assurance must include either:</P>
+<P>(i) A brief description of the preventive controls that the supplier is implementing to control the applicable hazard in the food; or</P>
+<P>(ii) A statement that the facility is in compliance with State, local, county, tribal, or other applicable non-Federal food safety law, including relevant laws and regulations of foreign countries.</P>
+<P>(d) If a supplier is a farm that grows produce and is not a covered farm under part 112 of this chapter in accordance with &#xA7; 112.4(a), or in accordance with &#xA7;&#xA7; 112.4(b) and 112.5, the receiving facility does not need to comply with paragraphs (a) and (b) of this section for produce that the receiving facility receives from the farm as a raw material or other ingredient if the receiving facility:</P>
+<P>(1) Obtains written assurance that the raw material or other ingredient provided by the supplier is not subject to part 112 of this chapter in accordance with &#xA7; 112.4(a), or in accordance with &#xA7;&#xA7; 112.4(b) and 112.5:</P>
+<P>(i) Before first approving the supplier for an applicable calendar year; and</P>
+<P>(ii) On an annual basis thereafter, by December 31 of each calendar year, for the following calendar year; and</P>
+<P>(2) Obtains written assurance, at least every 2 years, that the farm acknowledges that its food is subject to section 402 of the Federal Food, Drug, and Cosmetic Act (or, when applicable, that its food is subject to relevant laws and regulations of a country whose food safety system FDA has officially recognized as comparable or has determined to be equivalent to that of the United States).</P>
+<P>(e) If a supplier is a shell egg producer that is not subject to the requirements of part 118 of this chapter because it has less than 3,000 laying hens, the receiving facility does not need to comply with paragraphs (a) and (b) of this section if the receiving facility:</P>
+<P>(1) Obtains written assurance that the shell eggs produced by the supplier are not subject to part 118 because the shell egg producer has less than 3,000 laying hens:</P>
+<P>(i) Before first approving the supplier for an applicable calendar year; and</P>
+<P>(ii) On an annual basis thereafter, by December 31 of each calendar year, for the following calendar year; and</P>
+<P>(2) Obtains written assurance, at least every 2 years, that the shell egg producer acknowledges that its food is subject to section 402 of the Federal Food, Drug, and Cosmetic Act (or, when applicable, that its food is subject to relevant laws and regulations of a country whose food safety system FDA has officially recognized as comparable or has determined to be equivalent to that of the United States).</P>
+<P>(f) There must not be any financial conflicts of interests that influence the results of the verification activities listed in &#xA7; 117.410(b) and payment must not be related to the results of the activity.</P>
+</DIV8>
+
+<DIV8 N="117.435" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.435&quot;,&quot;citation&quot;:&quot;21 CFR 117.435&quot;}">
+<HEAD>&#xA7; 117.435 Onsite audit.</HEAD>
+<P>(a) An onsite audit of a supplier must be performed by a qualified auditor.</P>
+<P>(b) If the raw material or other ingredient at the supplier is subject to one or more FDA food safety regulations, an onsite audit must consider such regulations and include a review of the supplier's written plan (<I>e.g.,</I> Hazard Analysis and Critical Control Point (HACCP) plan or other food safety plan), if any, and its implementation, for the hazard being controlled (or, when applicable, an onsite audit may consider relevant laws and regulations of a country whose food safety system FDA has officially recognized as comparable or has determined to be equivalent to that of the United States).</P>
+<P>(c)(1) The following may be substituted for an onsite audit, provided that the inspection was conducted within 1 year of the date that the onsite audit would have been required to be conducted:</P>
+<P>(i) The written results of an appropriate inspection of the supplier for compliance with applicable FDA food safety regulations by FDA, by representatives of other Federal Agencies (such as the United States Department of Agriculture), or by representatives of State, local, tribal, or territorial agencies; or</P>
+<P>(ii) For a foreign supplier, the written results of an inspection by FDA or the food safety authority of a country whose food safety system FDA has officially recognized as comparable or has determined to be equivalent to that of the United States.</P>
+<P>(2) For inspections conducted by the food safety authority of a country whose food safety system FDA has officially recognized as comparable or determined to be equivalent, the food that is the subject of the onsite audit must be within the scope of the official recognition or equivalence determination, and the foreign supplier must be in, and under the regulatory oversight of, such country.</P>
+<P>(d) If the onsite audit is solely conducted to meet the requirements of this subpart by an audit agent of a certification body that is accredited in accordance with regulations in part 1, subpart M of this chapter, the audit is not subject to the requirements in those regulations.</P>
+<EFFDNOT>
+<HED>Effective Date Note:</HED><PSPACE>At 80 FR 56145, Sept. 17, 2015, &#xA7; 117.435 was added, effective Nov. 16, 2015, except for paragraph (d). FDA will publish a document in the <E T="04">Federal Register</E> announcing the effective date for this paragraph.</PSPACE></EFFDNOT>
+</DIV8>
+
+<DIV8 N="117.475" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-21/section-117.475&quot;,&quot;citation&quot;:&quot;21 CFR 117.475&quot;}">
+<HEAD>&#xA7; 117.475 Records documenting the supply-chain program.</HEAD>
+<P>(a) The records documenting the supply-chain program are subject to the requirements of subpart F of this part.</P>
+<P>(b) The receiving facility must review the records listed in paragraph (c) of this section in accordance with &#xA7; 117.165(a)(4).</P>
+<P>(c) The receiving facility must document the following in records as applicable to its supply-chain program:</P>
+<P>(1) The written supply-chain program;</P>
+<P>(2) Documentation that a receiving facility that is an importer is in compliance with the foreign supplier verification program requirements under part 1, subpart L of this chapter, including documentation of verification activities conducted under &#xA7; 1.506(e) of this chapter;</P>
+<P>(3) Documentation of the approval of a supplier;</P>
+<P>(4) Written procedures for receiving raw materials and other ingredients;</P>
+<P>(5) Documentation demonstrating use of the written procedures for receiving raw materials and other ingredients;</P>
+<P>(6) Documentation of the determination of the appropriate supplier verification activities for raw materials and other ingredients;</P>
+<P>(7) Documentation of the conduct of an onsite audit. This documentation must include:</P>
+<P>(i) The name of the supplier subject to the onsite audit;</P>
+<P>(ii) Documentation of audit procedures;</P>
+<P>(iii) The dates the audit was conducted;</P>
+<P>(iv) The conclusions of the audit;</P>
+<P>(v) Corrective actions taken in response to significant deficiencies identified during the audit; and</P>
+<P>(vi) Documentation that the audit was conducted by a qualified auditor;</P>
+<P>(8) Documentation of sampling and testing conducted as a supplier verification activity. This documentation must include:</P>
+<P>(i) Identification of the raw material or other ingredient tested (including lot number, as appropriate) and the number of samples tested;</P>
+<P>(ii) Identification of the test(s) conducted, including the analytical method(s) used;</P>
+<P>(iii) The date(s) on which the test(s) were conducted and the date of the report;</P>
+<P>(iv) The results of the testing;</P>
+<P>(v) Corrective actions taken in response to detection of hazards; and</P>
+<P>(vi) Information identifying the laboratory conducting the testing;</P>
+<P>(9) Documentation of the review of the supplier's relevant food safety records. This documentation must include:</P>
+<P>(i) The name of the supplier whose records were reviewed;</P>
+<P>(ii) The date(s) of review;</P>
+<P>(iii) The general nature of the records reviewed;</P>
+<P>(iv) The conclusions of the review; and</P>
+<P>(v) Corrective actions taken in response to significant deficiencies identified during the review;</P>
+<P>(10) Documentation of other appropriate supplier verification activities based on the supplier performance and the risk associated with the raw material or other ingredient;</P>
+<P>(11) Documentation of any determination that verification activities other than an onsite audit, and/or less frequent onsite auditing of a supplier, provide adequate assurance that the hazards are controlled when a hazard in a raw material or other ingredient will be controlled by the supplier and is one for which there is a reasonable probability that exposure to the hazard will result in serious adverse health consequences or death to humans;</P>
+<P>(12) The following documentation of an alternative verification activity for a supplier that is a qualified facility:</P>
+<P>(i) The written assurance that the supplier is a qualified facility as defined by &#xA7; 117.3, before approving the supplier and on an annual basis thereafter; and</P>
+<P>(ii) The written assurance that the supplier is producing the raw material or other ingredient in compliance with applicable FDA food safety regulations (or, when applicable, relevant laws and regulations of a country whose food safety system FDA has officially recognized as comparable or has determined to be equivalent to that of the United States);</P>
+<P>(13) The following documentation of an alternative verification activity for a supplier that is a farm that supplies a raw material or other ingredient and is not a covered farm under part 112 of this chapter:</P>
+<P>(i) The written assurance that supplier is not a covered farm under part 112 of this chapter in accordance with &#xA7; 112.4(a), or in accordance with &#xA7;&#xA7; 112.4(b) and 112.5, before approving the supplier and on an annual basis thereafter; and</P>
+<P>(ii) The written assurance that the farm acknowledges that its food is subject to section 402 of the Federal Food, Drug, and Cosmetic Act (or, when applicable, that its food is subject to relevant laws and regulations of a country whose food safety system FDA has officially recognized as comparable or has determined to be equivalent to that of the United States);</P>
+<P>(14) The following documentation of an alternative verification activity for a supplier that is a shell egg producer that is not subject to the requirements established in part 118 of this chapter because it has less than 3,000 laying hens:</P>
+<P>(i) The written assurance that the shell eggs provided by the supplier are not subject to part 118 of this chapter because the supplier has less than 3,000 laying hens, before approving the supplier and on an annual basis thereafter; and</P>
+<P>(ii) The written assurance that the shell egg producer acknowledges that its food is subject to section 402 of the Federal Food, Drug, and Cosmetic Act (or, when applicable, that its food is subject to relevant laws and regulations of a country whose safety system FDA has officially recognized as comparable or has determined to be equivalent to that of the United States);</P>
+<P>(15) The written results of an appropriate inspection of the supplier for compliance with applicable FDA food safety regulations by FDA, by representatives of other Federal Agencies (such as the United States Department of Agriculture), or by representatives from State, local, tribal, or territorial agencies, or the food safety authority of another country when the results of such an inspection is substituted for an onsite audit;</P>
+<P>(16) Documentation of actions taken with respect to supplier non-conformance;</P>
+<P>(17) Documentation of verification of a supply-chain-applied control applied by an entity other than the receiving facility's supplier; and</P>
+<P>(18) When applicable, documentation of the receiving facility's review and assessment of:</P>
+<P>(i) Applicable documentation from an entity other than the receiving facility that written procedures for receiving raw materials and other ingredients are being followed;</P>
+<P>(ii) Applicable documentation, from an entity other than the receiving facility, of the determination of the appropriate supplier verification activities for raw materials and other ingredients;</P>
+<P>(iii) Applicable documentation, from an entity other than the receiving facility, of conducting the appropriate supplier verification activities for raw materials and other ingredients;</P>
+<P>(iv) Applicable documentation, from its supplier, of:</P>
+<P>(A) The results of sampling and testing conducted by the supplier; or</P>
+<P>(B) The results of an audit conducted by a third-party qualified auditor in accordance with &#xA7;&#xA7; 117.430(f) and 117.435; and</P>
+<P>(v) Applicable documentation, from an entity other than the receiving facility, of verification activities when a supply-chain-applied control is applied by an entity other than the receiving facility's supplier.</P>
+<EFFDNOT>
+<HED>Effective Date Note:</HED><PSPACE>At 80 FR 56145, Sept. 17, 2015, &#xA7; 117.475 was added, effective Nov. 16, 2015, except for paragraph (c)(2). FDA will publish a document in the <E T="04">Federal Register</E> announcing the effective date for this paragraph.</PSPACE></EFFDNOT>
+</DIV8>
+
+</DIV6>
+</DIV5>

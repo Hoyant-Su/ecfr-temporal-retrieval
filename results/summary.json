@@ -1,0 +1,42 @@
+{
+  "source_snapshot_checks": 82,
+  "bm25": {
+    "k1": 1.5,
+    "b": 0.75
+  },
+  "tie_order": [
+    "score",
+    "revision_date",
+    "document_id"
+  ],
+  "methods": [
+    {
+      "method": "bm25",
+      "queries": 82,
+      "correct_section": 0.9024390243902439,
+      "correct_revision": 0.4024390243902439,
+      "correct_text": 0.4268292682926829
+    },
+    {
+      "method": "citation_latest",
+      "queries": 82,
+      "correct_section": 1.0,
+      "correct_revision": 0.43902439024390244,
+      "correct_text": 0.4634146341463415
+    },
+    {
+      "method": "bm25_as_of",
+      "queries": 82,
+      "correct_section": 0.8902439024390244,
+      "correct_revision": 0.8902439024390244,
+      "correct_text": 0.8902439024390244
+    },
+    {
+      "method": "citation_as_of",
+      "queries": 82,
+      "correct_section": 1.0,
+      "correct_revision": 1.0,
+      "correct_text": 1.0
+    }
+  ]
+}
